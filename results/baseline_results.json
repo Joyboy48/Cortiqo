@@ -1,0 +1,3823 @@
+{
+  "metrics": {
+    "n": 200,
+    "exact_match": {
+      "count": 80,
+      "pct": 40.0
+    },
+    "f1_avg": 0.524,
+    "hop1_recall": {
+      "count": 166,
+      "pct": 83.0
+    },
+    "hop2_recall": {
+      "count": 159,
+      "pct": 79.5
+    },
+    "both_hops_recall": {
+      "count": 126,
+      "pct": 63.0
+    }
+  },
+  "results": [
+    {
+      "id": "5ae143ed55429920d5234360",
+      "question": "In what year was the university where Sergei Aleksandrovich Tokarev was a professor founded?",
+      "answer": "1755",
+      "prediction": "1755.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Moscow State University",
+      "hop2_title": "Sergei Aleksandrovich Tokarev",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Sergei Aleksandrovich Tokarev",
+        "Sergei Kosarev",
+        "Sergei Dmitrochenko",
+        "Sergei Sholokhov",
+        "Moscow State University"
+      ]
+    },
+    {
+      "id": "5abc19705542993a06baf86e",
+      "question": "Black Book starred the actress and writer of what heritage?",
+      "answer": "Dutch",
+      "prediction": "Dutch.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Halina Reijn",
+      "hop2_title": "Black Book (film)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Black Book (novel)",
+        "Black Book (film)",
+        "Black Book (non-standard disc format)",
+        "Black Book (World War II)",
+        "Halina Reijn"
+      ]
+    },
+    {
+      "id": "5ac3e0f7554299194317388b",
+      "question": "Which actor does American Beauty and American Beauty have in common?",
+      "answer": "Kevin Spacey",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "American Beauty (1999 film)",
+      "hop2_title": "American Beauty (soundtrack)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "American Beauty (1999 film)",
+        "American Beauty (1927 film)",
+        "La Belle Am\u00e9ricaine",
+        "List of accolades received by American Beauty",
+        "Christopher Greenbury"
+      ]
+    },
+    {
+      "id": "5ae518655542993aec5ec139",
+      "question": "Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?",
+      "answer": "40 members",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Florida Senate",
+      "hop2_title": "Ken Pruitt",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Ken Pruitt",
+        "Alaska Legislature",
+        "Nevada Legislature",
+        "Wisconsin Legislature",
+        "Upper house"
+      ]
+    },
+    {
+      "id": "5ab985eb554299131ca42360",
+      "question": "Between Greyia and Calibanus, which genus contains more species?",
+      "answer": "Greyia",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Calibanus",
+      "hop2_title": "Greyia",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Greyia",
+        "Calibanus",
+        "Ceratozamia",
+        "Banksiamyces",
+        "List of Amanita species"
+      ]
+    },
+    {
+      "id": "5a8753d95542994846c1cd63",
+      "question": "Did John Updike and Tom Clancy both publish more than 15 bestselling novels?",
+      "answer": "yes",
+      "prediction": "No.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Tom Clancy",
+      "hop2_title": "John Updike",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Tom Clancy",
+        "John Updike",
+        "Tom Clancy's Rainbow 6: Patriots",
+        "Tom Clancy's Net Force Explorers: Death Match",
+        "Tom Clancy's Net Force Explorers: Duel Identity"
+      ]
+    },
+    {
+      "id": "5ab97d0a5542996be202051e",
+      "question": "Who was hung for assisting the attempted surrender of a defector from the American Continental Army to the British Army?",
+      "answer": "John Andr\u00e9",
+      "prediction": "John Andr\u00e9.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "John Andr\u00e9",
+      "hop2_title": "Benedict Arnold",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Benjamin Lincoln",
+        "John Andr\u00e9",
+        "Benedict Arnold",
+        "Siege of Yorktown",
+        "List of Continental Army units"
+      ]
+    },
+    {
+      "id": "5adef1b35542993a75d263af",
+      "question": "which Mexican and American film actress is Ethel Houbiers  French voice of ",
+      "answer": "Salma Hayek Pinault",
+      "prediction": "Pen\u00e9lope Cruz and Salma Hayek.",
+      "em": 0,
+      "f1": 0.5,
+      "hop1_title": "Salma Hayek",
+      "hop2_title": "Ethel Houbiers",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Ethel Houbiers",
+        "Bernard Alane",
+        "Virginie Ledieu",
+        "Mary Forbes",
+        "B\u00e9atrice Picard"
+      ]
+    },
+    {
+      "id": "5a73b55855429978a71e9086",
+      "question": "Which major international airport in south-east England ranks as the 8th busiest airport in Europe and replaced Croydon Airport?",
+      "answer": "Gatwick Airport",
+      "prediction": "Gatwick Airport.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Croydon Airport",
+      "hop2_title": "Gatwick Airport",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Croydon Airport",
+        "Gatwick Airport",
+        "Heathrow Airport",
+        "Athens International Airport",
+        "Dublin Airport"
+      ]
+    },
+    {
+      "id": "5ae80919554299540e5a56f6",
+      "question": "Isabella Kelly was born at a ruined castle characterized as one of the most isolated fortifications in Britain by who?",
+      "answer": "The Changing Scottish Landscape",
+      "prediction": "\"The Changing Scottish Landscape\"",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Isabella Kelly",
+      "hop2_title": "Cairnburgh Castle",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Isabella Kelly",
+        "Castillo de Tabernas",
+        "Cairnburgh Castle",
+        "Abergairn Castle",
+        "Scharfenstein Castle (Kiedrich)"
+      ]
+    },
+    {
+      "id": "5ae361605542994393b9e69b",
+      "question": "The facility where Robert Croft worked as a navy instructor was also known as?",
+      "answer": "\"Home of the Submarine Force\"",
+      "prediction": "US Naval Submarine Base New London submarine school.",
+      "em": 0,
+      "f1": 0.15384615384615385,
+      "hop1_title": "Naval Submarine Base New London",
+      "hop2_title": "Robert Croft (diver)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Robert Croft (diver)",
+        "RAF Croft",
+        "Naval Submarine Base New London",
+        "Naval Consolidated Brig, Miramar",
+        "John Ellis Roosevelt Estate"
+      ]
+    },
+    {
+      "id": "5ac3a76e554299741d48a2be",
+      "question": "Who released the song \"With or Without You\" first, Jai McDowall or U2?",
+      "answer": "U2",
+      "prediction": "U2.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "With or Without You",
+      "hop2_title": "Believe (Jai McDowall album)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Believe (Jai McDowall album)",
+        "With or Without You",
+        "Heartbeat (The Fray song)",
+        "Bill Grainer",
+        "Jai Ho! (You Are My Destiny)"
+      ]
+    },
+    {
+      "id": "5a7557d75542992d0ec05f68",
+      "question": "Which \"Roseanne\" star is in Scream 2?",
+      "answer": "Laurie Metcalf",
+      "prediction": "Roseanne Barr's writer, Laurie Metcalf.",
+      "em": 0,
+      "f1": 0.5,
+      "hop1_title": "Laurie Metcalf",
+      "hop2_title": "Scream 2",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Scream 2",
+        "Bobby Gaylor",
+        "Sidney Prescott",
+        "Laurie Metcalf",
+        "Gale Weathers"
+      ]
+    },
+    {
+      "id": "5a8d12ca5542994ba4e3dbe2",
+      "question": "In what city is the company that Fastjet Tanzania was originally founded as a part of prior to rebranding based?",
+      "answer": "Nairobi, Kenya",
+      "prediction": "Dar es Salaam.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Fastjet Tanzania",
+      "hop2_title": "Fly540",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Fastjet Tanzania",
+        "Fly540",
+        "SemGroup",
+        "Goldie &amp; McCulloch",
+        "Artillerie-Inrichtingen"
+      ]
+    },
+    {
+      "id": "5ab7f6d35542993667794070",
+      "question": "What is the name of the Australian specialist electronic music magazine that features avant-rock, experimental sound art, and experimental hip hop?",
+      "answer": "Cyclic Defrost",
+      "prediction": "Cyclic Defrost.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Cyclic Defrost",
+      "hop2_title": "Experimental hip hop",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Experimental hip hop",
+        "Cyclic Defrost",
+        "List of sound artists",
+        "And/oar",
+        "In\u00e9z"
+      ]
+    },
+    {
+      "id": "5ac3d9135542995c82c4ac4c",
+      "question": "What is the population of the city that Munsonville is in the northwest corner of?",
+      "answer": "729 at the 2010 census",
+      "prediction": "729",
+      "em": 0,
+      "f1": 0.33333333333333337,
+      "hop1_title": "Nelson, New Hampshire",
+      "hop2_title": "Munsonville, New Hampshire",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Munsonville, New Hampshire",
+        "Nelson, New Hampshire",
+        "Sullivan's Corner Historic District",
+        "George H. Williams Townhouses",
+        "Franklin Street Presbyterian Church and Parsonage"
+      ]
+    },
+    {
+      "id": "5ae129115542990adbacf722",
+      "question": "A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?",
+      "answer": "Francis McPeake",
+      "prediction": "Francis McPeake.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "A Pair of Brown Eyes",
+      "hop2_title": "Wild Mountain Thyme",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "A Pair of Brown Eyes",
+        "Brown Eyes (band)",
+        "Beautiful Brown Eyes",
+        "A Spanner in the Works",
+        "Brown Eyes (song)"
+      ]
+    },
+    {
+      "id": "5a86769c5542994775f60776",
+      "question": "Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?",
+      "answer": "Slaughterhouse-Five",
+      "prediction": "Slaughterhouse-Five.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Kurt Vonnegut",
+      "hop2_title": "Armageddon in Retrospect",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Armageddon in Retrospect",
+        "Kurt Vonnegut",
+        "Satyricon",
+        "Claudia Durst Johnson",
+        "Little Big Man (novel)"
+      ]
+    },
+    {
+      "id": "5ab31864554299233954ff06",
+      "question": "What class of instrument does Apatim Majumdar play?",
+      "answer": "strings",
+      "prediction": "Stringed instrument.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Sarod",
+      "hop2_title": "Apratim Majumdar",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Apratim Majumdar",
+        "Sarod",
+        "Keyboard glockenspiel",
+        "Experimental musical instrument",
+        "Udaka vadya"
+      ]
+    },
+    {
+      "id": "5a7b1023554299042af8f6c2",
+      "question": " Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",
+      "answer": "Ride a Wild Pony",
+      "prediction": "Ride a Wild Pony.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "The Many Adventures of Winnie the Pooh",
+      "hop2_title": "Ride a Wild Pony",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Many Adventures of Winnie the Pooh",
+        "Ride a Wild Pony",
+        "Winnie the Pooh and the Blustery Day",
+        "The Wild Pony",
+        "Winnie the Pooh (song)"
+      ]
+    },
+    {
+      "id": "5ac19f405542991316484b5b",
+      "question": "Pandikona and Berger Blanc Suisse are both what kinds of animals?",
+      "answer": "dogs",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Berger Blanc Suisse",
+      "hop2_title": "Pandikona",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Berger Blanc Suisse",
+        "Pandikona",
+        "Progression of Animals",
+        "Piranha: Wolf In The Water",
+        "Shopnopuri artificial amusement park"
+      ]
+    },
+    {
+      "id": "5ae382ee5542992e3233c430",
+      "question": "The Prussian General Carl von Clausewitz is associated with what type of realism?",
+      "answer": "Modern thinkers associated with classical realism are Carl von Clausewitz",
+      "prediction": "Classical Realism.",
+      "em": 0,
+      "f1": 0.33333333333333337,
+      "hop1_title": "Classical realism (international relations)",
+      "hop2_title": "Carl von Clausewitz",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Carl von Clausewitz",
+        "Classical realism (international relations)",
+        "August Otto R\u00fchle von Lilienstern",
+        "Christopher Bassford",
+        "On War"
+      ]
+    },
+    {
+      "id": "5adcdf455542994ed6169c11",
+      "question": "What where both Hawker Hurricane and No. 1455 Flight apart of?",
+      "answer": "Royal Air Force",
+      "prediction": "The Royal Air Force (RAF).",
+      "em": 0,
+      "f1": 0.7499999999999999,
+      "hop1_title": "No. 1455 Flight RAF",
+      "hop2_title": "Hawker Hurricane",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "No. 1455 Flight RAF",
+        "Hawker Hurricane",
+        "No. 1300 Flight RAF",
+        "Hawker Tornado",
+        "Sindlinger Hawker Hurricane"
+      ]
+    },
+    {
+      "id": "5ac35a7e554299741d48a257",
+      "question": "what language did the ethnic group which Torstein Ellingsen was its drumer  speaks ",
+      "answer": "Norwegian language",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Torstein Ellingsen",
+      "hop2_title": "Norwegians",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Torstein Ellingsen",
+        "Norwegians",
+        "Ewe people",
+        "Turkish people",
+        "Unrecognized ethnic groups in China"
+      ]
+    },
+    {
+      "id": "5ab2659e554299340b5254b2",
+      "question": "From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",
+      "answer": "the Parthian Empire",
+      "prediction": "Sasanian.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Farrukhzad Khosrow V",
+      "hop2_title": "Sasanian Empire",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Farrukhzad Khosrow V",
+        "Hormizd VI",
+        "Khosrow IV",
+        "Duchy of Thuringia",
+        "Samo"
+      ]
+    },
+    {
+      "id": "5adcbb815542994ed6169bde",
+      "question": "Beer Wars covers the differences between large corporate breweries, and small breweries, such as what brewery that is headquartered in Escondido, california?",
+      "answer": "Stone Brewing",
+      "prediction": "Stone Brewing Co.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Stone Brewing Co.",
+      "hop2_title": "Beer Wars",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "List of breweries in California",
+        "Beer Wars",
+        "Beer by region",
+        "Stone Brewing Co.",
+        "List of breweries and wineries in South Dakota"
+      ]
+    },
+    {
+      "id": "5a74f8bd5542993748c8976a",
+      "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+      "answer": "Tim Cluess",
+      "prediction": "Tim Cluess.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "2015\u201316 Iowa State Cyclones men's basketball team",
+      "hop2_title": "2015\u201316 Iona Gaels men's basketball team",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "David Hobbs (basketball)",
+        "2015\u201316 Iowa State Cyclones men's basketball team",
+        "2012\u201313 Murray State Racers men's basketball team",
+        "2010\u201311 Iona Gaels men's basketball team",
+        "2015\u201316 Iona Gaels men's basketball team"
+      ]
+    },
+    {
+      "id": "5ade25ed5542997c77aded70",
+      "question": "During what war were the Russia-United Kingdom relations in a state of rivalry after the abdication of Emperor Nicholas II? ",
+      "answer": "the Cold War (1947\u201391)",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Russia\u2013United Kingdom relations",
+      "hop2_title": "Russian Revolution",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Russia\u2013United Kingdom relations",
+        "Nicholas II of Russia",
+        "Grand Duke Sergei Alexandrovich of Russia",
+        "Charles Sydney Gibbes",
+        "Prince Andrew Romanov"
+      ]
+    },
+    {
+      "id": "5a78ae8b5542990784727730",
+      "question": "How far from Sacramento is the flight school in Atwater?",
+      "answer": "about 115 miles (185 km)",
+      "prediction": "115 miles.",
+      "em": 0,
+      "f1": 0.5714285714285715,
+      "hop1_title": "Sierra Academy of Aeronautics",
+      "hop2_title": "Castle Air Force Base",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Sierra Academy of Aeronautics",
+        "Pacific Flying Club",
+        "North American Institute of Aviation",
+        "Castle Air Force Base",
+        "American Flyers (flight school)"
+      ]
+    },
+    {
+      "id": "5ae12a4b55429920d52342df",
+      "question": "Baraki Barak District is situated in the western part of a province whose capital is what?",
+      "answer": "Puli Alam",
+      "prediction": "Logar Province.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Baraki Barak District",
+      "hop2_title": "Logar Province",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Baraki Barak District",
+        "Baraki Barak",
+        "Baraki Rajan",
+        "Baraki Barak airstrike",
+        "Lunda Norte Province"
+      ]
+    },
+    {
+      "id": "5ae22eae554299495565da30",
+      "question": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+      "answer": "310",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Black Crescent Mountain",
+      "hop2_title": "Randolph, New Hampshire",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Black Crescent Mountain",
+        "Mount Crescent",
+        "Crescent Range",
+        "Crescent Mills, California",
+        "Somanya"
+      ]
+    },
+    {
+      "id": "5ab6aa4c55429953192ad359",
+      "question": "In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?",
+      "answer": "\"Kitty Hawk\"",
+      "prediction": "Kitty Hawk.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Moon tree",
+      "hop2_title": "Stuart Roosa",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Moon tree",
+        "Apollo 9",
+        "Apollo (spacecraft)",
+        "Stuart Roosa",
+        "AS-201"
+      ]
+    },
+    {
+      "id": "5adf3e835542993a75d26442",
+      "question": "Which comic series involves characters such as Nick Fury and Baron von Strucker?",
+      "answer": "Marvel",
+      "prediction": "Nick Fury vs. S.H.I.E.L.D.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Fenris (comics)",
+      "hop2_title": "Nick Fury: Agent of S.H.I.E.L.D. (film)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Nick Fury (2017 comic book)",
+        "Nick Fury vs. S.H.I.E.L.D.",
+        "Fenris (comics)",
+        "Ultimate Nick Fury",
+        "Nick Fury, Agent of S.H.I.E.L.D. (feature)"
+      ]
+    },
+    {
+      "id": "5a8ee3a755429917b4a5be02",
+      "question": "College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?",
+      "answer": "Harry Lillis \"Bing\" Crosby Jr.",
+      "prediction": "Bing Crosby.",
+      "em": 0,
+      "f1": 0.5714285714285715,
+      "hop1_title": "Bing Crosby",
+      "hop2_title": "College Humor (film)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "College Humor (film)",
+        "Melody Cruise (film)",
+        "Hallelujah, I'm a Bum (film)",
+        "Hello, Everybody!",
+        "International House (1933 film)"
+      ]
+    },
+    {
+      "id": "5ac0dcf25542996f0d89cc2c",
+      "question": "Who is writing a book about the Koch family who control the second-largest privately owned company in the United States?",
+      "answer": "Jane Mayer",
+      "prediction": "Jane Mayer.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Dark Money (book)",
+      "hop2_title": "Koch family",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Koch family",
+        "Fred C. Koch",
+        "Koch family foundations",
+        "David Koch",
+        "Dark Money (book)"
+      ]
+    },
+    {
+      "id": "5a7e618155429949594199b0",
+      "question": "New York State Route 9R rejoins its parent in a hamlet located  in what New York County?",
+      "answer": "Albany",
+      "prediction": "Colonie.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Boght Corners, New York",
+      "hop2_title": "New York State Route 9R",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "New York State Route 9R",
+        "New York State Route 9G",
+        "New York State Route 9N",
+        "New York State Route 9B",
+        "New York State Route 418"
+      ]
+    },
+    {
+      "id": "5ab916e155429919ba4e23a4",
+      "question": "12 Years a Slave starred what British actor born 10 July 1977)",
+      "answer": "Chiwetel Ejiofor",
+      "prediction": "Chiwetel Ejiofor.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "12 Years a Slave (score)",
+      "hop2_title": "Chiwetel Ejiofor",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "12 Years a Slave (score)",
+        "Chiwetel Ejiofor",
+        "Sinan Tuzcu",
+        "Solomon Northup",
+        "Travis Wilson (softball)"
+      ]
+    },
+    {
+      "id": "5a713b325542994082a3e6b5",
+      "question": "What was the capital of India when the Taj Mahal was commissioned?",
+      "answer": "Agra",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Taj Mahal",
+      "hop2_title": "Agra Fort",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Taj Mahal",
+        "Taj Mahal (1963 film)",
+        "Taj Mahal Bangladesh",
+        "Taj Mahal, Bulandshahar",
+        "Black Taj Mahal"
+      ]
+    },
+    {
+      "id": "5a87c13f5542996e4f30890c",
+      "question": "In what city did the \"Prince of tenors\" star in a film based on an opera by Giacomo Puccini?",
+      "answer": "Rome",
+      "prediction": "New York City.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Franco Corelli",
+      "hop2_title": "Tosca (1956 film)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Festival Puccini",
+        "Gianni Schicchi",
+        "Cesira Ferrani",
+        "La Boh\u00e8me (1988 film)",
+        "Franco Corelli"
+      ]
+    },
+    {
+      "id": "5a8843cd5542994846c1ce75",
+      "question": "What river can a  large African bovine be seen bathing in in the Mwabvi Wildlife Reserve?",
+      "answer": "Buffalo",
+      "prediction": "Mwabvi river.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Mwabvi Wildlife Reserve",
+      "hop2_title": "African buffalo",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mwabvi Wildlife Reserve",
+        "African buffalo",
+        "Ferlo Sud Wildlife Reserve",
+        "Project African Wilderness",
+        "Mastigouche Wildlife Reserve"
+      ]
+    },
+    {
+      "id": "5ab90d8955429916710eb0f1",
+      "question": "Jalen Jones plays basketball for an NBA team that plays their home games in what arena?",
+      "answer": "Smoothie King Center",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Jalen Jones",
+      "hop2_title": "New Orleans Pelicans",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Jalen Jones",
+        "Washington NBA G League team",
+        "Erie BayHawks (2017\u2013)",
+        "Portland Trail Blazers",
+        "Windy City Bulls"
+      ]
+    },
+    {
+      "id": "5ae788fa55429952e35ea964",
+      "question": "The On Tour Forever album gave Blues Traveler the opportunity to display what musical trademark?",
+      "answer": "extensive use of segues",
+      "prediction": "John Popper's harmonica.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Blues Traveler",
+      "hop2_title": "On Tour Forever",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "On Tour Forever",
+        "Blues Traveler (album)",
+        "Travelogue: Blues Traveler Classics",
+        "Travelers and Thieves",
+        "Blues Traveler"
+      ]
+    },
+    {
+      "id": "5ae1925a554299492dc91b48",
+      "question": "Which Victorian poet was born in a 15th-century castle home to the Earl of Southesk?",
+      "answer": "Charlotte Carnegie",
+      "prediction": "Lady Charlotte Elliot.",
+      "em": 0,
+      "f1": 0.4,
+      "hop1_title": "Lady Charlotte Elliot",
+      "hop2_title": "Kinnaird Castle, Brechin",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Kinnaird Castle, Brechin",
+        "Crayke Castle",
+        "Megginch Castle",
+        "Lady Charlotte Elliot",
+        "Kilmory Castle, Bute"
+      ]
+    },
+    {
+      "id": "5ae1443855429920d5234362",
+      "question": "Alexander Petrovich Nikolayev received the title Hero of the Soviet Union and the Order of Lenin for his actions during the   the final major offensive of the European theatre of what war?",
+      "answer": "World War II",
+      "prediction": "World War II.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Battle of Berlin",
+      "hop2_title": "Alexander Nikolayev",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Alexander Nikolayev",
+        "Georgy Vasilyevich Ivanov",
+        "Mikhail Linnik",
+        "Vladimir Fedorovich Vladimirov",
+        "Boris Vladimirov"
+      ]
+    },
+    {
+      "id": "5ac54c435542993e66e822d1",
+      "question": "Where did Cale Gundy's brother play football in college?",
+      "answer": "Oklahoma State University",
+      "prediction": "Oklahoma State University.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Cale Gundy",
+      "hop2_title": "Mike Gundy",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Cale Gundy",
+        "Mike Gundy",
+        "Ben Coates",
+        "Chris Rubio",
+        "Bob Adams (American football)"
+      ]
+    },
+    {
+      "id": "5a7a77425542995eb53be83e",
+      "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+      "answer": "Brady Seals",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Brady Seals",
+      "hop2_title": "Nick Carter (musician)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Brady Seals (album)",
+        "Thompson Street (album)",
+        "Brady Seals",
+        "The Truth (Brady Seals album)",
+        "Another You, Another Me"
+      ]
+    },
+    {
+      "id": "5a7153d05542994082a3e7dc",
+      "question": "Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",
+      "answer": "Nusretiye Mosque",
+      "prediction": "Nusretiye Mosque.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Nusretiye Mosque",
+      "hop2_title": "Bayezid II Mosque",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Nusretiye Mosque",
+        "Bayezid II Mosque",
+        "Bayezid II Mosque (Amasya)",
+        "King Mosque, Berat",
+        "Y\u0131ld\u0131z Hamidiye Mosque"
+      ]
+    },
+    {
+      "id": "5ae361805542992e3233c3c9",
+      "question": "What university did the last Detroit Pistons player to wear the number retired in honor of a player nicknamed \"The Worm\" attend?",
+      "answer": "Georgetown University",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Dennis Rodman",
+      "hop2_title": "Greg Monroe",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Greg Monroe",
+        "Dennis Rodman",
+        "Chauncey Billups",
+        "2005\u201306 Detroit Pistons season",
+        "Detroit Pistons"
+      ]
+    },
+    {
+      "id": "5a72688c5542997f827839b2",
+      "question": "The Atik Valide Mosque and Valens Aqueduct are found in what country?",
+      "answer": "Turkey",
+      "prediction": "Turkey.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Atik Valide Mosque",
+      "hop2_title": "Valens Aqueduct",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Atik Valide Mosque",
+        "\u0160arena d\u017eamija",
+        "Yeni Valide Mosque",
+        "Gazi Atik Ali Pasha Mosque",
+        "Pertevniyal Valide Sultan Mosque"
+      ]
+    },
+    {
+      "id": "5a7ce0ce554299452d57ba92",
+      "question": "Which of the four US Presidents who have been assinated was shot on the grounds of the Pan-American Exposition at the Temple of Music in Buffalo, New York?",
+      "answer": "William McKinley",
+      "prediction": "William McKinley.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Assassination of James A. Garfield",
+      "hop2_title": "Assassination of William McKinley",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Temple of Music",
+        "Pan-American Exposition",
+        "Assassination of William McKinley",
+        "1901 State of the Union Address",
+        "Alice Russell Glenny"
+      ]
+    },
+    {
+      "id": "5a83411655429966c78a6b5d",
+      "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+      "answer": "Justin Spitzer",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Johnny Pemberton",
+      "hop2_title": "Superstore (TV series)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Johnny Pemberton",
+        "Nick Zano",
+        "Bo Brady",
+        "Julia Benjamin",
+        "Meshach Taylor"
+      ]
+    },
+    {
+      "id": "5a877dd65542993e715abf79",
+      "question": "Were Halld\u00f3r Laxness and Timothy Leary from the same country?",
+      "answer": "no",
+      "prediction": "No.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Timothy Leary",
+      "hop2_title": "Halld\u00f3r Laxness",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Timothy Leary",
+        "Memoir of Halld\u00f3r Laxness",
+        "Halld\u00f3r Laxness (album)",
+        "Au\u00f0ur Laxness",
+        "Halld\u00f3r Laxness"
+      ]
+    },
+    {
+      "id": "5ab6087a554299110f2199be",
+      "question": "Do both Korematsu v. United States and Chaplinsky v. New Hampshire cases regard the rights of U. S. citizens?",
+      "answer": "yes",
+      "prediction": "Yes.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Korematsu v. United States",
+      "hop2_title": "Chaplinsky v. New Hampshire",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Chaplinsky v. New Hampshire",
+        "Korematsu v. United States",
+        "Duncan v. Kahanamoku",
+        "Freedom of movement under United States law",
+        "Stephen Halbrook"
+      ]
+    },
+    {
+      "id": "5adbd70c55429947ff173843",
+      "question": " What is the title of the memoir written by the honoree of the Black and White Ball?",
+      "answer": "Personal History",
+      "prediction": "Personal History.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Katharine Graham",
+      "hop2_title": "Black and White Ball",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Black and White Ball",
+        "Blackballing",
+        "Buddleja 'White Ball'",
+        "Katharine Graham",
+        "Golf (1984 video game)"
+      ]
+    },
+    {
+      "id": "5a7796e05542992a6e59df0f",
+      "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "answer": "Netherlands",
+      "prediction": "The Netherlands.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Huis Ten Bosch (train)",
+      "hop2_title": "Huis Ten Bosch (theme park)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Huis Ten Bosch (train)",
+        "Huis Ten Bosch Station",
+        "Huis Ten Bosch (theme park)",
+        "Huis ten Bosch (disambiguation)",
+        "Huis ten Bosch palace"
+      ]
+    },
+    {
+      "id": "5abc030e554299642a094bdc",
+      "question": "The Distribution of Industry act was passed by a man who was prime minister when? ",
+      "answer": "1945 to 1951",
+      "prediction": "Clement Attlee.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Distribution of Industry Act 1950",
+      "hop2_title": "Clement Attlee",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Industry Act 1975",
+        "Distribution of Industry Act 1950",
+        "Honours (Prevention of Abuses) Act 1925",
+        "Prime Minister of Northern Ireland",
+        "Clement Attlee"
+      ]
+    },
+    {
+      "id": "5a7bb7f2554299042af8f7b6",
+      "question": "What Cantonese slang term can mean both \"ghost man\" and to refer to Westerners?",
+      "answer": "Gweilo",
+      "prediction": "Gweilo.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Ghosts (2006 film)",
+      "hop2_title": "Gweilo",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Ghosts (2006 film)",
+        "Cantonese slang",
+        "Gweilo",
+        "Sheng nu",
+        "Beard (companion)"
+      ]
+    },
+    {
+      "id": "5a8b3de95542997f31a41cc3",
+      "question": "In what year was the most famous statute at Po Lin Monastery built?",
+      "answer": "Tian Tan Buddha",
+      "prediction": "1993.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Tian Tan Buddha",
+      "hop2_title": "Buddhism in Hong Kong",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Po Lin Monastery",
+        "Buddhism in Hong Kong",
+        "Great Lavra",
+        "Tian Tan Buddha",
+        "Lenggu Monastery"
+      ]
+    },
+    {
+      "id": "5ab3bfd3554299233954ff99",
+      "question": " The Nike Hoop Summit has had many current NBA players as former participants, including what German player from the Dallas Mavericks?",
+      "answer": "Dirk Werner Nowitzki",
+      "prediction": "Dirk Nowitzki.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Dirk Nowitzki",
+      "hop2_title": "Nike Hoop Summit",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Nike Hoop Summit",
+        "Dirk Nowitzki",
+        "Tyus Jones",
+        "Terrance Ferguson",
+        "1980 NBA Expansion Draft"
+      ]
+    },
+    {
+      "id": "5ab9b7d555429970cfb8eb7a",
+      "question": "Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?",
+      "answer": "Henry Lau",
+      "prediction": "Henry Lau.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Final Recipe",
+      "hop2_title": "Henry Lau",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Final Recipe",
+        "Cho Kyuhyun",
+        "Cho Kyu-hyun discography",
+        "Eunhyuk",
+        "Super Show"
+      ]
+    },
+    {
+      "id": "5ab6bf6d55429953192ad372",
+      "question": "Are Phlebodium and Pieris both species of ferns?",
+      "answer": "no",
+      "prediction": "No.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Phlebodium",
+      "hop2_title": "Pieris (plant)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Phlebodium",
+        "Leptosporangiate fern",
+        "Phlebodium aureum",
+        "Pieris floribunda",
+        "Pieris (plant)"
+      ]
+    },
+    {
+      "id": "5ae7cb9b5542994a481bbde2",
+      "question": "Who was the great grandfather of Franklin Seaver Pratt's wife?",
+      "answer": "Kalokuokamaile",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Elizabeth Kekaaniau",
+      "hop2_title": "Franklin Seaver Pratt",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Franklin Seaver Pratt",
+        "Elizabeth Kekaaniau",
+        "Ingerman, Count of Hesbaye",
+        "Thomas Howard, 2nd Duke of Norfolk",
+        "Nigel Loring (surgeon)"
+      ]
+    },
+    {
+      "id": "5ab1d6545542997061209588",
+      "question": "At what age did Cieli di Toscana's singer become blind?",
+      "answer": "Bocelli became completely blind at the age of 12",
+      "prediction": "12 years old.",
+      "em": 0,
+      "f1": 0.16666666666666666,
+      "hop1_title": "Cieli di Toscana",
+      "hop2_title": "Andrea Bocelli",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Cieli di Toscana",
+        "Andrea Bocelli",
+        "Tuscan Skies",
+        "Melodramma (song)",
+        "Mille Lune Mille Onde"
+      ]
+    },
+    {
+      "id": "5addcb215542997dc7907033",
+      "question": "Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?",
+      "answer": "Naomi Elaine Campbell",
+      "prediction": "Naomi Campbell.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Naomi Campbell",
+      "hop2_title": "Nasty Girl (The Notorious B.I.G. song)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Nasty Girl (The Notorious B.I.G. song)",
+        "Duets: The Final Chapter",
+        "Vanity (singer)",
+        "Total (group)",
+        "Notorious (soundtrack)"
+      ]
+    },
+    {
+      "id": "5ae528ed5542993aec5ec16e",
+      "question": "What is the name of the film directed by Alex Cox  adapted from a 1606 play starring Diana Quick as the Dutchess?",
+      "answer": "Revengers Tragedy",
+      "prediction": "Revengers Tragedy.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Diana Quick",
+      "hop2_title": "Revengers Tragedy",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Revengers Tragedy",
+        "Diana Quick",
+        "Tread Softly Stranger",
+        "Antony and Cleopatra (1974 TV drama)",
+        "The Orchid House (TV serial)"
+      ]
+    },
+    {
+      "id": "5a8c7ced5542995e66a4761c",
+      "question": "Josh Trank and Mike Valerio both work in what industry?",
+      "answer": "entertainment",
+      "prediction": "Entertainment.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Josh Trank",
+      "hop2_title": "Mike Valerio",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mike Valerio",
+        "James Valerio",
+        "The Rapino Brothers",
+        "Industrialnation",
+        "Roddy P\u00e9rez"
+      ]
+    },
+    {
+      "id": "5a72f74a55429901807daf59",
+      "question": "Which American comedian born on March 21, 1962, appeared in the movie \"Sleepless in Seattle?\"",
+      "answer": "Rosie O'Donnell",
+      "prediction": "Rosie O'Donnell.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Sleepless in Seattle",
+      "hop2_title": "Rosie O'Donnell",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Sleepless in Seattle",
+        "Shaheed Woods",
+        "Tim Bedore",
+        "Rosie O'Donnell",
+        "Helen Atkinson-Wood"
+      ]
+    },
+    {
+      "id": "5ae1d4e8554299234fd04312",
+      "question": "Any Questions for Ben? was directed by which Australian producer and actor?",
+      "answer": "Robert Ian \"Rob\" Sitch",
+      "prediction": "Rob Sitch.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Any Questions for Ben?",
+      "hop2_title": "Rob Sitch",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Any Questions for Ben?",
+        "Rob Sitch",
+        "Josh Schuberth",
+        "Clayton Watson",
+        "Herbert Finlay"
+      ]
+    },
+    {
+      "id": "5a80aeef5542992097ad301a",
+      "question": "What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?",
+      "answer": "The Shins",
+      "prediction": "The Shins.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Jesse Sandoval",
+      "hop2_title": "The Shins",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Jesse Sandoval",
+        "Jon Sortland",
+        "Radio Rats",
+        "Wye Oak (band)",
+        "Kottonmouth Kings"
+      ]
+    },
+    {
+      "id": "5a7f66f155429969796c1a33",
+      "question": "What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?",
+      "answer": "Denmark\u2013Norway\u2013Sweden",
+      "prediction": "Scandinavian.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Scandinavian Airlines",
+      "hop2_title": "SAS Braathens",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "History of Braathens (1994\u20132004)",
+        "Braathens",
+        "List of Braathens destinations",
+        "SAS Braathens",
+        "Braathens Helikopter"
+      ]
+    },
+    {
+      "id": "5abbda84554299642a094b5b",
+      "question": "What is the ratio of flow velocity past a boundary to the local speed of sound for a Saab JAS 39 Gripen?",
+      "answer": "2",
+      "prediction": "Mach 2.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Saab JAS 39 Gripen",
+      "hop2_title": "Mach number",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mach number",
+        "Saab JAS 39 Gripen",
+        "Saab 38",
+        "A-Darter",
+        "Pitot tube"
+      ]
+    },
+    {
+      "id": "5abe3dc65542993f32c2a0c4",
+      "question": "SWX Right Now airs on the station that broadcasts on what channel in Billings, Montana?",
+      "answer": "8",
+      "prediction": "KULR-TV (channel 8).",
+      "em": 0,
+      "f1": 0.4,
+      "hop1_title": "SWX Right Now",
+      "hop2_title": "KULR-TV",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "SWX Right Now",
+        "KXMD-TV",
+        "KULR-TV",
+        "KEWF",
+        "KCTR-FM"
+      ]
+    },
+    {
+      "id": "5ae489ab5542995ad6573d62",
+      "question": "Which player, who also played for the New Jersey Nets and the Golden State Warriors, finished third in the league with 231 three-point field goals during the 1995-96 Atlanta Hawks season?",
+      "answer": "Mookie Blaylock",
+      "prediction": "Mookie Blaylock.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Mookie Blaylock",
+      "hop2_title": "1995\u201396 Atlanta Hawks season",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "1995\u201396 Atlanta Hawks season",
+        "George T. Johnson",
+        "1990\u201391 Houston Rockets season",
+        "Mookie Blaylock",
+        "Chris Engler"
+      ]
+    },
+    {
+      "id": "5a7e1b7155429965cec5ea6c",
+      "question": "Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?",
+      "answer": "Fiat Chrysler Automobiles N.V.",
+      "prediction": "Chrysler.",
+      "em": 0,
+      "f1": 0.33333333333333337,
+      "hop1_title": "Saltillo Engine Plant",
+      "hop2_title": "Chrysler",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Saltillo Engine Plant",
+        "Ramos Arizpe Assembly",
+        "Ramos Arizpe",
+        "Ramos Arizpe Municipality",
+        "GM High Value engine"
+      ]
+    },
+    {
+      "id": "5a8fae205542997ba9cb32ec",
+      "question": " What type of television show did Dylan Everett star in, in 2015?",
+      "answer": "American-Canadian mystery-drama",
+      "prediction": "\"Open Heart\"",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Dylan Everett",
+      "hop2_title": "Open Heart (TV series)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Dylan Everett",
+        "Wingin' It",
+        "Everett Greenbaum",
+        "The Roy Files",
+        "Dean Winchester"
+      ]
+    },
+    {
+      "id": "5ae588cb55429960a22e0300",
+      "question": "Which plant, the Chaerophyllum or the Cryptanthus, can be found in various places across the world?",
+      "answer": "Chaerophyllum",
+      "prediction": "Chaerophyllum.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Chaerophyllum",
+      "hop2_title": "Cryptanthus",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Chaerophyllum",
+        "Cryptanthus",
+        "Chaerophyllum elegans",
+        "Angiopteris evecta",
+        "Leontodon taraxacoides"
+      ]
+    },
+    {
+      "id": "5a75e62f5542992d0ec06013",
+      "question": "Johnny Mathis: Wonderful Wonderful aired at what luxury hotel, casino and spa resort located in Atlantic City, New Jersey?",
+      "answer": "Tropicana Casino & Resort",
+      "prediction": "Tropicana Casino & Resort Atlantic City.",
+      "em": 0,
+      "f1": 0.7499999999999999,
+      "hop1_title": "Johnny Mathis: Wonderful, Wonderful!",
+      "hop2_title": "Tropicana Casino &amp; Resort Atlantic City",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Wonderful Wonderful (Johnny Mathis album)",
+        "Johnny Mathis: Wonderful, Wonderful!",
+        "Warm (Johnny Mathis album)",
+        "Tropicana Casino &amp; Resort Atlantic City",
+        "The Atlantic Club Casino Hotel"
+      ]
+    },
+    {
+      "id": "5ac113e2554299294b21909a",
+      "question": "Who wrote the lyrics for Linda Eder's Broadway debut?",
+      "answer": "Wildhorn, Bricusse and Cuden",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Linda Eder",
+      "hop2_title": "Jekyll &amp; Hyde (musical)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Linda Eder",
+        "Bill Grainer",
+        "Anne Cochran",
+        "Rebecca Spencer (singer)",
+        "Sam Levene"
+      ]
+    },
+    {
+      "id": "5a82fe5055429966c78a6ad3",
+      "question": "The Company They Keep is a book written by Diana Pavlac Glyer, who is a professor at a university in Azusa, California, that was founded in 1899, and is under the auspices of what religion?",
+      "answer": "evangelical Christian",
+      "prediction": "Evangelical Christian.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Azusa Pacific University",
+      "hop2_title": "The Company They Keep",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Company They Keep",
+        "Diana Pavlac Glyer",
+        "Azusa Pacific University",
+        "Amir Hussain",
+        "John Culp"
+      ]
+    },
+    {
+      "id": "5a7e05ba5542995f4f402392",
+      "question": "For One Night Only was hosted by the man most well-known for hosting what show from 1962 until 1999?",
+      "answer": "The Late Late Show",
+      "prediction": "The Late Late Show.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "For One Night Only (Irish TV series)",
+      "hop2_title": "Gay Byrne",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "One Night Only (TV series)",
+        "For One Night Only (Irish TV series)",
+        "One Night (ELO Part II album)",
+        "Elton John One Night Only \u2013 The Greatest Hits",
+        "Gay Byrne"
+      ]
+    },
+    {
+      "id": "5a7264ed5542990c210a411a",
+      "question": "What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?",
+      "answer": "Blood and soil",
+      "prediction": "Blood and Soil.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Lebensraum",
+      "hop2_title": "Blood and Soil",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Lebensraum",
+        "Betriebsobmann",
+        "Nazi Germany",
+        "Blood and Soil",
+        "Nazi Party of Costa Rica"
+      ]
+    },
+    {
+      "id": "5a8ed10b5542995085b374a0",
+      "question": "Olivia DeJonge starred in an American horror film directed by Shyamalan called what",
+      "answer": "The Visit",
+      "prediction": "The Visit.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "The Visit (2015 American film)",
+      "hop2_title": "Olivia DeJonge",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "The Visit (2015 American film)",
+        "The Village (2004 film)",
+        "Scare Campaign",
+        "When a Stranger Calls (2006 film)",
+        "The Houses October Built"
+      ]
+    },
+    {
+      "id": "5add8f055542990dbb2f7e6d",
+      "question": "Who conducted the negotiations  with the owners and the longest serving commandant of Auschwitz concentration and extermination camp?",
+      "answer": "Rudolf H\u00f6ss",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Gerstein Report",
+      "hop2_title": "Rudolf H\u00f6ss",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "SS command of Auschwitz concentration camp",
+        "Auschwitz concentration camp",
+        "Rudolf H\u00f6ss",
+        "Majdanek concentration camp",
+        "Carl Clauberg"
+      ]
+    },
+    {
+      "id": "5a86ab7755429960ec39b6bf",
+      "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "answer": "an adventure novel",
+      "prediction": "Adventure.",
+      "em": 0,
+      "f1": 0.5,
+      "hop1_title": "Long John Silver's",
+      "hop2_title": "Treasure Island",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Long John Silver's",
+        "The Crab Cooker",
+        "Oyster bar",
+        "Nordsee",
+        "McDonaldization"
+      ]
+    },
+    {
+      "id": "5a7a112a5542990783324e2b",
+      "question": "What kind of musicians are Mark Gaudet and Jan Axel Blomberg?",
+      "answer": "drummer",
+      "prediction": "Heavy metal drummers.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Mark Gaudet",
+      "hop2_title": "Jan Axel Blomberg",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mark Gaudet",
+        "Jan Axel Blomberg",
+        "Steinar Sverd Johnsen",
+        "Mezzerschmitt",
+        "Erik Blomberg (writer)"
+      ]
+    },
+    {
+      "id": "5ab870ee5542990e739ec8f6",
+      "question": "A Wind in the Door is part of a series written by who?",
+      "answer": "Madeleine L'Engle",
+      "prediction": "The Time Quintet.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "A Wind in the Door",
+      "hop2_title": "Time Quintet",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "A Wind in the Door",
+        "The Four Winds of Love",
+        "Close the Last Door",
+        "Dan Angel",
+        "Door to Door (Modern Family)"
+      ]
+    },
+    {
+      "id": "5a8810485542997e5c09a590",
+      "question": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+      "answer": "1.6 million passengers",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Rotterdam The Hague Airport",
+      "hop2_title": "A13 motorway (Netherlands)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "A13 motorway (Netherlands)",
+        "International air travel from the United Kingdom",
+        "Lahad Datu Airport",
+        "Juanda International Airport",
+        "Sofia Airport"
+      ]
+    },
+    {
+      "id": "5a8208ee5542990a1d231f1e",
+      "question": "The town of Sinclair, West Virginia, is named after the founder of the local oil drilling company. What is on Sinclair Oil's famous logo?",
+      "answer": "dinosaur",
+      "prediction": "A large green dinosaur.",
+      "em": 0,
+      "f1": 0.4,
+      "hop1_title": "Sinclair, West Virginia",
+      "hop2_title": "Sinclair Oil Corporation",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Sinclair Oil Corporation",
+        "Sinclair, West Virginia",
+        "R. E. Hoy No. 1 Oil Well",
+        "Harry Ford Sinclair",
+        "Fred M. Manning"
+      ]
+    },
+    {
+      "id": "5a86399e5542994775f60733",
+      "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+      "answer": "Punjabi/Pashtun",
+      "prediction": "Norwegian.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Deeyah Khan",
+      "hop2_title": "Jihad: A Story of the Others",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Jihad: A Story of the Others",
+        "A Jihad for Love",
+        "Sandi Simcha DuBowski",
+        "A Sinner in Mecca",
+        "Damien Dematra"
+      ]
+    },
+    {
+      "id": "5a78e9a2554299148911f995",
+      "question": "Minor league baseball games that were played between the rivalling teams of the Sooners and the Cowboys were played at the stadium formerly known as what?",
+      "answer": "Drillers Stadium",
+      "prediction": "Drillers Stadium.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Bedlam Series",
+      "hop2_title": "Athletics Stadium",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Bedlam Series",
+        "Athletics Stadium",
+        "Josh Holliday",
+        "Newark Bears (International League)",
+        "LECOM Park"
+      ]
+    },
+    {
+      "id": "5a84995d5542997b5ce3fee4",
+      "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+      "answer": "Alachua",
+      "prediction": "Alachua.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Gainesville, Florida",
+      "hop2_title": "Cooperative Living Organization",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Cooperative Living Organization",
+        "List of counties in Florida",
+        "Florida's 16th congressional district",
+        "Tampa\u2013Hillsborough County Public Library System",
+        "Cumberland Homesteads"
+      ]
+    },
+    {
+      "id": "5ab941c2554299743d22ea88",
+      "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+      "answer": "Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",
+      "prediction": "C. J. Cherryh.",
+      "em": 0,
+      "f1": 0.3157894736842105,
+      "hop1_title": "C. J. Cherryh",
+      "hop2_title": "The Fortress Series",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "C. J. Cherryh",
+        "The Fortress Series",
+        "Carolyn Zane",
+        "The Story of the Weasel",
+        "Jane Thayer"
+      ]
+    },
+    {
+      "id": "5a8e5f1f5542995a26add4d6",
+      "question": "Which dog is believed to dispel ghosts and evil spirits, Segugio Italiano or Sapsali?",
+      "answer": "Sapsali",
+      "prediction": "Sapsali.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Sapsali",
+      "hop2_title": "Segugio Italiano",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Segugio Italiano",
+        "Sapsali",
+        "Shisa",
+        "Ghosts in Bengali culture",
+        "Kukeri"
+      ]
+    },
+    {
+      "id": "5abf1ad15542997ec76fd3c2",
+      "question": "Which French aristocrat and military officer who fought in the American Revolutionary War visited this historic home located at Enfield, Halifax County, North Carolina, known as The Cellar?",
+      "answer": "Marquis de Lafayette",
+      "prediction": "Marquis de Lafayette.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Gilbert du Motier, Marquis de Lafayette",
+      "hop2_title": "The Cellar (Enfield, North Carolina)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Cellar (Enfield, North Carolina)",
+        "John Hamilton (American Revolution)",
+        "Gilbert du Motier, Marquis de Lafayette",
+        "Enfield, North Carolina",
+        "Bell-Sherrod House"
+      ]
+    },
+    {
+      "id": "5ae5cf625542996de7b71a22",
+      "question": "What sports team included both of the brothers Case McCoy and Colt McCoy during different years?",
+      "answer": "University of Texas Longhorns",
+      "prediction": "University of Texas Longhorns.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Colt McCoy",
+      "hop2_title": "Case McCoy",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Case McCoy",
+        "Colt McCoy",
+        "Colt clan incest case",
+        "Walter Camp Award",
+        "David Neill"
+      ]
+    },
+    {
+      "id": "5a7c8ae855429935c91b5207",
+      "question": "Which member of The New Russian School was both a doctor and a chemist besides being a composer?",
+      "answer": "Alexander Porfiryevich Borodin",
+      "prediction": "Alexander Borodin.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Alexander Borodin",
+      "hop2_title": "The Mighty Handful",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Alexander Borodin",
+        "The Mighty Handful",
+        "Russian School Defense Staff",
+        "Novgorod School",
+        "International Russian School in Antalya"
+      ]
+    },
+    {
+      "id": "5a87106555429960ec39b71f",
+      "question": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+      "answer": "Rob Reiner",
+      "prediction": "Rob Reiner.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Ghosts of Mississippi",
+      "hop2_title": "Susanna Thompson",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Ghosts of Mississippi",
+        "Susanna Thompson",
+        "Twilight of Honor",
+        "The Lawyer (film)",
+        "The Attorney"
+      ]
+    },
+    {
+      "id": "5a7f296f55429934daa2fd10",
+      "question": "Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?",
+      "answer": "1974",
+      "prediction": "2004",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Live Wire Radio",
+      "hop2_title": "A Prairie Home Companion",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Live Wire Radio",
+        "Livewire",
+        "Live Wire (album)",
+        "Live Wire (Martha and the Vandellas song)",
+        "The Live Wire: Woody Guthrie in Performance 1949"
+      ]
+    },
+    {
+      "id": "5ae14b5c55429920d52343aa",
+      "question": "Luke Rockhold defeated the MMA fighter who was the first to earn a win against which champion in the UFC?",
+      "answer": "Anderson Silva",
+      "prediction": "Anderson Silva.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Luke Rockhold",
+      "hop2_title": "Chris Weidman",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Luke Rockhold",
+        "Chris Weidman",
+        "Demetrious Johnson (fighter)",
+        "Dan Henderson",
+        "Skip Hall (MMA)"
+      ]
+    },
+    {
+      "id": "5a88b3b4554299206df2b336",
+      "question": "What type of art does The Consul and Arlecchino have in common?",
+      "answer": "music",
+      "prediction": "Opera.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Arlecchino (opera)",
+      "hop2_title": "The Consul",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Consul",
+        "Arlecchino (opera)",
+        "Consul fabius",
+        "Ekaterina Semenikhin",
+        "Vladimir Semenikhin"
+      ]
+    },
+    {
+      "id": "5add67705542992ae4cec54f",
+      "question": "Who is a Brazilian mixed martial artist in the UFC who Namsaknoi Yudthagarngamtorn coached?",
+      "answer": "Rafael Souza dos Anjos",
+      "prediction": "Rafael Dos Anjos.",
+      "em": 0,
+      "f1": 0.8571428571428571,
+      "hop1_title": "Namsaknoi Yudthagarngamtorn",
+      "hop2_title": "Rafael dos Anjos",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Namsaknoi Yudthagarngamtorn",
+        "Rafael dos Anjos",
+        "Wallid Ismail",
+        "Ant\u00f4nio Rodrigo Nogueira",
+        "M\u00e1rio Neto"
+      ]
+    },
+    {
+      "id": "5a875fee5542996e4f3087ab",
+      "question": "Which has more species, Lysiloma or Hydrocotyle umbellata?",
+      "answer": "Lysiloma",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Lysiloma",
+      "hop2_title": "Hydrocotyle umbellata",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Hydrocotyle umbellata",
+        "Lysiloma",
+        "Elaeagnus umbellata",
+        "Hunteria umbellata",
+        "Epidendrum subsect. Umbellata"
+      ]
+    },
+    {
+      "id": "5ab2b630554299545a2cfa17",
+      "question": "Are the films Gasland from 2010 and Pumping Iron from 1977 both documentaries?",
+      "answer": "yes",
+      "prediction": "Yes.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Pumping Iron",
+      "hop2_title": "Gasland",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Gasland",
+        "Pumping Iron II: The Women",
+        "Pumping Iron",
+        "Mike Katz",
+        "Bodybuilders (On the Inside)"
+      ]
+    },
+    {
+      "id": "5a851ba95542997175ce1f81",
+      "question": "Rosemary Willis was seen in the grass in what Texas town, where John F. Kennedy was assassinated?",
+      "answer": "Dallas",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Rosemary Willis",
+      "hop2_title": "Dealey Plaza",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Rosemary Willis (Miss Virginia)",
+        "Assassination of John F. Kennedy",
+        "Dealey Plaza",
+        "Pink Chanel suit of Jacqueline Bouvier Kennedy",
+        "Warren Commission"
+      ]
+    },
+    {
+      "id": "5ae1d0e8554299234fd0430a",
+      "question": "Which king of Northumbria did The \"Historia\" gives the abbot central place in his election as king",
+      "answer": "Guthred or Guthfrith",
+      "prediction": "Guthred.",
+      "em": 0,
+      "f1": 0.5,
+      "hop1_title": "Eadred Lulisc",
+      "hop2_title": "Guthred",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Ceolwulf of Northumbria",
+        "Eadred Lulisc",
+        "Northman",
+        "Wilfrid",
+        "S\u00e6berht of Essex"
+      ]
+    },
+    {
+      "id": "5ae1ebf95542997283cd22f2",
+      "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "answer": "Interstate 22",
+      "prediction": "Interstate 22 (I-22).",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Mooreville, Mississippi",
+      "hop2_title": "Interstate 22",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mooreville, Mississippi",
+        "Mississippi Highway 23",
+        "Interstate 22",
+        "U.S. Route 78 in Georgia",
+        "U.S. Route 278"
+      ]
+    },
+    {
+      "id": "5a81d0515542990a1d231ed4",
+      "question": "Where is the casino that Summer Nights takes place in?",
+      "answer": "Las Vegas Strip in Paradise, Nevada",
+      "prediction": "Flamingo Las Vegas.",
+      "em": 0,
+      "f1": 0.4444444444444444,
+      "hop1_title": "Flamingo Las Vegas",
+      "hop2_title": "Summer Nights (residency show)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Summer Nights (residency show)",
+        "Flamingo Las Vegas",
+        "Challenge Casino de Charlevoix",
+        "HalloWeekends",
+        "Bedikas Chametz"
+      ]
+    },
+    {
+      "id": "5ae35e8c5542990afbd1e120",
+      "question": "who was the anthropologist who thought that the plaster casts that were discovered by Paul Freeman were a critical piece of evidence?",
+      "answer": "Don Jeffrey \"Jeff\" Meldrum (born May 24, 1958) is a Professor of Anatomy and Anthropology",
+      "prediction": "Jeff Meldrum.",
+      "em": 0,
+      "f1": 0.23529411764705882,
+      "hop1_title": "Jeffrey Meldrum",
+      "hop2_title": "Paul Freeman (cryptozoologist)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Paul Freeman (cryptozoologist)",
+        "H. Winnett Orr",
+        "Plaster Caster",
+        "Cynthia Plaster Caster",
+        "Museum of Plaster Casts (Thessaloniki)"
+      ]
+    },
+    {
+      "id": "5a87ed5b5542994846c1cdfc",
+      "question": "What type of license is the open source roguelike video game video released 2012, in which a subset of it's pricing model is a called free-to-play, licensed under?",
+      "answer": "GNU GPLv3",
+      "prediction": "GNU GPLv3.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Tales of Maj'Eyal",
+      "hop2_title": "Freemium",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Freemium",
+        "Open-source license",
+        "Tales of Maj'Eyal",
+        "Common Development and Distribution License",
+        "Dungeon Crawl Stone Soup"
+      ]
+    },
+    {
+      "id": "5abc41315542993a06baf8bb",
+      "question": "M\u00eda Maestro had a role in the 2002 biopic directed by whom?",
+      "answer": "Julie Taymor",
+      "prediction": "Julie Taymor.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Frida",
+      "hop2_title": "M\u00eda Maestro",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "M\u00eda Maestro",
+        "Nadia Santos",
+        "Secuestro Express",
+        "Frida",
+        "Jean Paul Leroux"
+      ]
+    },
+    {
+      "id": "5a7be1ab5542997c3ec972a9",
+      "question": "UFO Magazine covers what subject named for Charles Hoy Fort?",
+      "answer": "Fortean",
+      "prediction": "Fortean.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Charles Fort",
+      "hop2_title": "UFO Magazine",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "UFO Magazine",
+        "UFO Magazine (UK)",
+        "Charles Fort",
+        "Michel Monnerie",
+        "Ernest Charles Hoy"
+      ]
+    },
+    {
+      "id": "5a840e395542992ef85e239d",
+      "question": "Are both The Straight Story and Frozen films of the same genre?",
+      "answer": "no",
+      "prediction": "No.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "The Straight Story",
+      "hop2_title": "Frozen (2013 film)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Frozen (2013 film)",
+        "The Straight Story",
+        "Alvin Straight",
+        "Mary Sweeney",
+        "Dan Flannery"
+      ]
+    },
+    {
+      "id": "5ae8167b55429952e35eaa06",
+      "question": "What 1876 battle featured the Other Magpie?",
+      "answer": "Battle of the Rosebud",
+      "prediction": "Battle of the Rosebud.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "The Other Magpie",
+      "hop2_title": "Battle of the Rosebud",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Battle of the Rosebud",
+        "The Other Magpie",
+        "Lame Deer",
+        "Battle of Olongapo",
+        "Second Battle of Caloocan"
+      ]
+    },
+    {
+      "id": "5a776a805542993735360269",
+      "question": "What Disney movie was the wrestler with the real name of John William Minton in?",
+      "answer": "Double Agent",
+      "prediction": "Double Agent.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Big John Studd",
+      "hop2_title": "Double Agent (1987 film)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Big John Studd",
+        "Curt Hennig",
+        "John D. Minton Jr.",
+        "Double Agent (1987 film)",
+        "Rayo de Jalisco Jr."
+      ]
+    },
+    {
+      "id": "5ab4b9f75542990594ba9ca4",
+      "question": "Who covered the song I Love You by Chris Write?",
+      "answer": "People! and The Carnabeats",
+      "prediction": "People! and The Carnabeats.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "I Love You (The Zombies song)",
+      "hop2_title": "Chris White (musician)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "I Love You (The Zombies song)",
+        "Chris White (musician)",
+        "She Is Love (Parachute song)",
+        "Can We Talk",
+        "Love Stinks (song)"
+      ]
+    },
+    {
+      "id": "5a78e3b955429974737f78f1",
+      "question": "Who was born first, Javier Frana or Sherwood Stewart?",
+      "answer": "Sherwood Stewart",
+      "prediction": "Sherwood Stewart.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Sherwood Stewart",
+      "hop2_title": "Javier Frana",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Javier Frana",
+        "1996 Nottingham Open \u2013 Singles",
+        "Sherwood Stewart",
+        "1996 Abierto Mexicano de Tenis \u2013 Doubles",
+        "1995 Nottingham Open \u2013 Singles"
+      ]
+    },
+    {
+      "id": "5a851b0d5542997175ce1f7f",
+      "question": "Are Dogo Cubano and the Dutch Shepherd both breeds of dog?",
+      "answer": "yes",
+      "prediction": "Yes.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Dutch Shepherd",
+      "hop2_title": "Dogo Cubano",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Dogo Cubano",
+        "Guatemalan Dogo",
+        "Belgian Shepherd",
+        "Dutch Shepherd",
+        "Dogo Argentino"
+      ]
+    },
+    {
+      "id": "5a78b5f7554299148911f95b",
+      "question": "Spawn, a fictional character who Mustafa Shakir has expressed interest in playing, was created by?",
+      "answer": "Todd McFarlane",
+      "prediction": "Todd McFarlane.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Spawn (comics)",
+      "hop2_title": "Mustafa Shakir",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mustafa Shakir",
+        "Spawn (comics)",
+        "Malebolgia",
+        "Tiffany (comics)",
+        "Fantastic Contraption (2008 video game)"
+      ]
+    },
+    {
+      "id": "5ab4304a55429942dd415ec5",
+      "question": "To where did the war criminal who is the fictional defendant in the film After the Truth flee in real life ?",
+      "answer": "South America",
+      "prediction": "South America.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Josef Mengele",
+      "hop2_title": "After the Truth",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "After the Truth",
+        "Theodor Szehinskyj",
+        "Music Box (film)",
+        "Josef Mengele",
+        "Negative checking"
+      ]
+    },
+    {
+      "id": "5a72dcb45542992359bc31af",
+      "question": "What company did Rex Maughan aquire?",
+      "answer": "Aloe Vera of America",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Forever Living Products",
+      "hop2_title": "Rex Maughan",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Rex Maughan",
+        "Rex-Acme",
+        "Rex Records (1912)",
+        "Rex Records (1933)",
+        "REX American Resources"
+      ]
+    },
+    {
+      "id": "5a7e0ed25542991319bc9424",
+      "question": "The 249th episode of \"The Simpsons\" was aired on what date?",
+      "answer": "November 1, 2000",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "The Simpsons (season 12)",
+      "hop2_title": "Treehouse of Horror XI",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Simpsons 138th Episode Spectacular",
+        "The Simpsons (season 12)",
+        "Treehouse of Horror XI",
+        "Gluten Free Ebola",
+        "Take My Wife (Family Guy)"
+      ]
+    },
+    {
+      "id": "5ab9e477554299232ef4a25d",
+      "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "answer": "Woolworth Building",
+      "prediction": "Woolworth Building.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Woolworth Building",
+      "hop2_title": "1 New York Plaza",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Woolworth Building",
+        "F. W. Woolworth Building (Watertown, New York)",
+        "1 New York Plaza",
+        "Transportation Building",
+        "Abraham M. Radcliffe"
+      ]
+    },
+    {
+      "id": "5ab900045542991b5579f0c0",
+      "question": "Where is the concert venue which hosted the first US performance of \"Libu\u0161e\" located?",
+      "answer": "Midtown Manhattan in New York City,",
+      "prediction": "Carnegie Hall.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Carnegie Hall",
+      "hop2_title": "Libu\u0161e (opera)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Libu\u0161e (opera)",
+        "IF Performance Hall",
+        "Fillmore Auditorium (Denver)",
+        "Express Live!",
+        "G\u00fcrzenich Orchestra Cologne"
+      ]
+    },
+    {
+      "id": "5ab6e848554299710c8d1faa",
+      "question": "When was the advisor of Alpher\u2013Bethe\u2013Gamow paper died?",
+      "answer": "August 19, 1968",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "George Gamow",
+      "hop2_title": "Alpher\u2013Bethe\u2013Gamow paper",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Alpher\u2013Bethe\u2013Gamow paper",
+        "George Gamow",
+        "Gilman Paper Company",
+        "Edward Teller",
+        "Ylem"
+      ]
+    },
+    {
+      "id": "5a7dc2495542997cc2c4749a",
+      "question": "What competition held in Kathmandu, Nepal did Julian Bolling compete in 1984?",
+      "answer": "1984 South Asian Games",
+      "prediction": "1984 South Asian Games.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "1984 South Asian Games",
+      "hop2_title": "Julian Bolling",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mr. Nepal",
+        "Julian Bolling",
+        "2015 Nepal Premier League",
+        "Miss Nepal 2010",
+        "1984 South Asian Games"
+      ]
+    },
+    {
+      "id": "5a84e9d35542994c784dda84",
+      "question": "The Nike Mercurial Vapor is endorsed by a Stoke City football player who also plays for what national team?",
+      "answer": "the Switzerland national team",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Nike Mercurial Vapor",
+      "hop2_title": "Xherdan Shaqiri",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Nike Mercurial Vapor",
+        "Stoke City F.C.",
+        "Stoke City F.C. Under-23s and Academy",
+        "Stoke City F.C. in European football",
+        "Gareth Evans (footballer, born 1967)"
+      ]
+    },
+    {
+      "id": "5a7cfea2554299452d57babe",
+      "question": "Which aired first, Life After People or Werner Herzog Eats His Shoe?",
+      "answer": "Werner Herzog Eats His Shoe",
+      "prediction": "Werner Herzog Eats His Shoe.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Werner Herzog Eats His Shoe",
+      "hop2_title": "Life After People",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Werner Herzog Eats His Shoe",
+        "Portrait Werner Herzog",
+        "Life After People",
+        "Lucki Stipeti\u0107",
+        "How Much Wood Would a Woodchuck Chuck (film)"
+      ]
+    },
+    {
+      "id": "5ae497f15542995ad6573db8",
+      "question": "What NIFL Premier Intermediate League team did Sean Connor play for?",
+      "answer": "Distillery",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Sean Connor",
+      "hop2_title": "Lisburn Distillery F.C.",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Sean Connor",
+        "NIFL Premier Intermediate League",
+        "Northern Ireland Intermediate League",
+        "Sport &amp; Leisure Swifts F.C.",
+        "Northern Ireland Football League"
+      ]
+    },
+    {
+      "id": "5ae2133e554299495565d9e3",
+      "question": "The first female correspondent for Inside the NFL was replaced by who on the show American Ninja Warrior?",
+      "answer": "Kristine Leahy",
+      "prediction": "Kristine Leahy.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Jenn Brown",
+      "hop2_title": "American Ninja Warrior (season 7)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Jenn Brown",
+        "American Ninja Warrior (season 7)",
+        "American Ninja Warrior (season 4)",
+        "American Ninja Warrior (season 6)",
+        "American Ninja Warrior (season 5)"
+      ]
+    },
+    {
+      "id": "5abfe1115542997d64295909",
+      "question": "Bridgewater Triangle is an area where the phenomenon associated with what type of tradition has been seen?",
+      "answer": "Native American",
+      "prediction": "Folklore.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Bridgewater Triangle",
+      "hop2_title": "Thunderbird (cryptozoology)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Bridgewater Triangle",
+        "Bennington Triangle",
+        "Patagonia picnic table effect",
+        "Ice-marginal lava flow",
+        "Cold drop"
+      ]
+    },
+    {
+      "id": "5a8ce55f554299441c6b9f62",
+      "question": "The band who released the debut album \"Tinted Windows\" had their first performance in what city?",
+      "answer": "Tulsa",
+      "prediction": "Tulsa, Oklahoma.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Tinted Windows (album)",
+      "hop2_title": "Tinted Windows (band)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Tinted Windows (album)",
+        "Tinted Windows (band)",
+        "Extended Play (Pretenders EP)",
+        "The Red Telephone (band)",
+        "The Delta Machine Tour"
+      ]
+    },
+    {
+      "id": "5a7c47c35542990527d55481",
+      "question": "In the 1970s, which group acquired this department store group in the United Kingdom whose co-founding director is the father of Lieutenant Colonel Donald Swain Lewis?",
+      "answer": "Army & Navy Stores",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Donald Swain Lewis",
+      "hop2_title": "Army &amp; Navy Stores (United Kingdom)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Donald Swain Lewis",
+        "House of Fraser",
+        "Army &amp; Navy Stores (United Kingdom)",
+        "El Corte Ingl\u00e9s",
+        "Beatties"
+      ]
+    },
+    {
+      "id": "5ab4107a554299753aec5a2f",
+      "question": "The Dogwoman telemovies were created by an actress born in what year?",
+      "answer": "1961",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Dogwoman",
+      "hop2_title": "Magda Szubanski",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Dogwoman",
+        "Izara Aishah",
+        "Jennifer Jayne",
+        "Mariko Shiga",
+        "Maggie Moore"
+      ]
+    },
+    {
+      "id": "5a774e415542994aec3b7280",
+      "question": "Who fills in occasionally for the meteorologist who replaced  Ginger Zee ?",
+      "answer": "Kait Parker",
+      "prediction": "Kait Parker.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Kait Parker",
+      "hop2_title": "Rob Marciano",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Ginger Zee",
+        "Rob Marciano",
+        "Kait Parker",
+        "Bob Ryan (meteorologist)",
+        "Pedram Javaheri"
+      ]
+    },
+    {
+      "id": "5abdf06355429976d4830a2d",
+      "question": "In Ancient Egyptian religion how would a citizen be weighted to decide if they where worthy of damnation and would face the torment in the lake of fire ?",
+      "answer": "against the feather of truth",
+      "prediction": "Their heart was weighed against the feather of truth.",
+      "em": 0,
+      "f1": 0.7142857142857143,
+      "hop1_title": "Damnation",
+      "hop2_title": "Ancient Egyptian religion",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Damnation",
+        "Ancient Egyptian religion",
+        "Ancient Egyptian deities",
+        "Osiris myth",
+        "Hatmehit"
+      ]
+    },
+    {
+      "id": "5a8ac4dd5542992d82986f76",
+      "question": "Which town near the county border with North Yorkshire was this Lancashire mill (closed in 1979 and demolished) located?",
+      "answer": "Barnoldswick",
+      "prediction": "Barnoldswick.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Bancroft Shed",
+      "hop2_title": "Barnoldswick",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Barnoldswick",
+        "Hopperton",
+        "Bancroft Shed",
+        "Anglican Diocese of Leeds",
+        "Tosside"
+      ]
+    },
+    {
+      "id": "5a8f503c5542992414482a34",
+      "question": "The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",
+      "answer": "English",
+      "prediction": "British.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Jeffrey Archer",
+      "hop2_title": "The Prodigal Daughter",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Prodigal Daughter",
+        "Mich\u00e8le Roberts",
+        "The Prodigal Judge",
+        "What's So Amazing About Grace?",
+        "Prodigal Daughter (Star Trek: Deep Space Nine)"
+      ]
+    },
+    {
+      "id": "5a8ec55f5542995a26add50c",
+      "question": "At what height does State Route 160 start?",
+      "answer": "4145 ft",
+      "prediction": "On top of Black Mountain.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Black Mountain (Kentucky)",
+      "hop2_title": "Virginia State Route 160",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Maine State Route 160",
+        "Washington State Route 160",
+        "Ohio State Route 160",
+        "Virginia State Route 160",
+        "Alabama State Route 160"
+      ]
+    },
+    {
+      "id": "5ae1338d55429901ffe4ade1",
+      "question": "The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?",
+      "answer": "the green fairy",
+      "prediction": "la f\u00e9e verte",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Quintessentially Unreal",
+      "hop2_title": "Absinthe",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "List of alcoholic drinks",
+        "Quintessentially Unreal",
+        "Caffeinated alcoholic drink",
+        "Zurracapote",
+        "Absinthe"
+      ]
+    },
+    {
+      "id": "5a7bea3d5542996dd594b847",
+      "question": "What actor replaced the Welch actor born in 1978 who played Robin Hood in the first season of \"Once upon a Time\"?",
+      "answer": "Sean Maguire",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Tom Ellis (actor)",
+      "hop2_title": "Robin Hood (Once Upon a Time)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Robin Hood (Once Upon a Time)",
+        "Alan Wheatley",
+        "List of Alyas Robin Hood episodes",
+        "List of Alyas Robin Hood characters",
+        "Alyas Robin Hood"
+      ]
+    },
+    {
+      "id": "5a7f567e5542992097ad2f22",
+      "question": "Which year was the more recent engine series, the Honda K or Honda H, introduced?",
+      "answer": "2001",
+      "prediction": "2001.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Honda K engine",
+      "hop2_title": "Honda H Engine",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Honda K engine",
+        "Honda H Engine",
+        "Honda B engine",
+        "CVCC",
+        "Honda B20A engine"
+      ]
+    },
+    {
+      "id": "5ac26ac15542992f1f2b38bc",
+      "question": "Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?",
+      "answer": "Sam Phillips",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Hustle &amp; Flow",
+      "hop2_title": "Beneath (2007 film)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "MTV Films",
+        "Paramount Famous Productions",
+        "Paramount Vantage",
+        "Beneath (2007 film)",
+        "Zack Norman"
+      ]
+    },
+    {
+      "id": "5adbcc085542996e6852523c",
+      "question": "What are some foods that may have been served at the Hawaiin Cottage?",
+      "answer": "poi, Kalua pig, poke, lomi salmon, opihi, haupia",
+      "prediction": "Poi, Kalua pig, poke, lomi salmon, opihi, haupia, and beer.",
+      "em": 0,
+      "f1": 0.888888888888889,
+      "hop1_title": "Luau",
+      "hop2_title": "Hawaiian Cottage",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Hawaiian Cottage",
+        "Luau",
+        "Raw bar",
+        "Pub cheese",
+        "A-ration"
+      ]
+    },
+    {
+      "id": "5ae531695542990ba0bbb1fb",
+      "question": "In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?",
+      "answer": "1945",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Steve Spurrier",
+      "hop2_title": "2007 South Carolina Gamecocks football team",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "2007 South Carolina Gamecocks football team",
+        "2006 South Carolina Gamecocks football team",
+        "2005 South Carolina Gamecocks football team",
+        "1998 South Carolina Gamecocks football team",
+        "2004 South Carolina Gamecocks football team"
+      ]
+    },
+    {
+      "id": "5ac2cb09554299657fa29066",
+      "question": "What team did Travis Cortez Mays play on which currently compete in the Big 12 Conference.?",
+      "answer": "Texas Longhorns men's basketball team",
+      "prediction": "University of Texas.",
+      "em": 0,
+      "f1": 0.2222222222222222,
+      "hop1_title": "Travis Mays",
+      "hop2_title": "Texas Longhorns men's basketball",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Travis Mays",
+        "2015\u201316 Big 12 Conference men's basketball season",
+        "Big 12 Conference men's basketball",
+        "Big 12 Conference football",
+        "2012\u201313 TCU Horned Frogs men's basketball team"
+      ]
+    },
+    {
+      "id": "5a82817555429954d2e2eb5a",
+      "question": "Which film does \"Naked Weapon\" follow in the \"Naked\" series?",
+      "answer": "\"Naked Killer\"",
+      "prediction": "Naked Killer.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Naked Soldier",
+      "hop2_title": "Naked Weapon",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Naked Soldier",
+        "Naked Weapon",
+        "Naked Gun 33\u2153: The Final Insult",
+        "Naked City (TV series)",
+        "The Naked Gun 2\u00bd: The Smell of Fear"
+      ]
+    },
+    {
+      "id": "5ae34b275542992e3233c371",
+      "question": "Which award David Hersey had got for Equus a play by Peter Shaffer ?",
+      "answer": "Outstanding Lighting Design",
+      "prediction": "Drama Desk Award.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "David Hersey",
+      "hop2_title": "Equus (play)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Equus (play)",
+        "David Hersey",
+        "Doris Abrahams",
+        "Equus (film)",
+        "Amadeus (disambiguation)"
+      ]
+    },
+    {
+      "id": "5a74f5155542993748c89750",
+      "question": "What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",
+      "answer": "The Colomac Mine",
+      "prediction": "Colomac Mine.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Kemess Mine",
+      "hop2_title": "Colomac Mine",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Colomac Mine",
+        "Kemess Mine",
+        "N.W.T. Mining Heritage Society",
+        "National Mine Map Repository",
+        "Thutade Lake"
+      ]
+    },
+    {
+      "id": "5add0f635542994ed6169c56",
+      "question": "Are The Man from Snowy River II and Miracle of the White Stallions filmed in different countries?",
+      "answer": "yes",
+      "prediction": "Yes.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "The Man from Snowy River II",
+      "hop2_title": "Miracle of the White Stallions",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Miracle of the White Stallions",
+        "Philip Abbott",
+        "The Man from Snowy River II",
+        "Return to Snowy River",
+        "The Man from Snowy River (TV series)"
+      ]
+    },
+    {
+      "id": "5ab4428c5542990594ba9bda",
+      "question": "Do Lush and P.O.D. both consist of four band members?",
+      "answer": "yes",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Lush (band)",
+      "hop2_title": "P.O.D.",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Lush (band)",
+        "The Chemistry Set (American band)",
+        "Giant Target",
+        "List of songs recorded by Tool",
+        "Weezer (2008 album)"
+      ]
+    },
+    {
+      "id": "5a721a7655429971e9dc9271",
+      "question": "What actor from the show Murphy Brown also had a role in a show with fellow actor Steve Howey? ",
+      "answer": "Christopher Rich",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Reba (season 1)",
+      "hop2_title": "Christopher Rich (actor)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Christopher Rich (actor)",
+        "Johnny Brown (actor)",
+        "Jay Thomas",
+        "Doug Dale",
+        "Grizz Chapman"
+      ]
+    },
+    {
+      "id": "5ae532365542992663a4f150",
+      "question": "What year was Playford B Power Station permanently closed in by its Australian operator?",
+      "answer": "2015",
+      "prediction": "2015.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Alinta Energy",
+      "hop2_title": "Playford B Power Station",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Playford B Power Station",
+        "Playford A Power Station",
+        "Rugeley power stations",
+        "Dunston Power Station",
+        "Blyth Power Station"
+      ]
+    },
+    {
+      "id": "5a72f1cf5542994cef4bc414",
+      "question": "Which English actor starred in the 1995 american romantic drama film The Scarlet Letter alongside Demi Moore and Robert Duvall?",
+      "answer": "Gary Oldman",
+      "prediction": "Gary Oldman.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Gary Oldman",
+      "hop2_title": "The Scarlet Letter (1995 film)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "The Scarlet Letter (1995 film)",
+        "The Scarlet Letter (1922 film)",
+        "Robert Duvall filmography",
+        "The Bridges of Madison County (film)",
+        "Passion of Mind"
+      ]
+    },
+    {
+      "id": "5a749e1855429979e28829c3",
+      "question": "Which tennis player is older, Emilio S\u00e1nchez or Andrei Olhovskiy?",
+      "answer": "Emilio \u00c1ngel S\u00e1nchez Vicario",
+      "prediction": "Emilio S\u00e1nchez.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Emilio S\u00e1nchez",
+      "hop2_title": "Andrei Olhovskiy",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Andrei Olhovskiy",
+        "Emilio S\u00e1nchez",
+        "Andrei Pavel",
+        "Orlando S\u00e1nchez (basketball)",
+        "1986 Swedish Open"
+      ]
+    },
+    {
+      "id": "5a8b051255429971feec460e",
+      "question": "Henderson Executive Airport got its name in 1996 when it was purchased by Clark County to be used as a reliever airport for an airport named after what politican?",
+      "answer": "U.S. Senator Pat McCarran",
+      "prediction": "Pat McCarran.",
+      "em": 0,
+      "f1": 0.5714285714285715,
+      "hop1_title": "McCarran International Airport",
+      "hop2_title": "Henderson Executive Airport",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Henderson Executive Airport",
+        "Raleigh Executive Jetport",
+        "Hayward Executive Airport",
+        "Indianapolis Executive Airport",
+        "McCarran International Airport"
+      ]
+    },
+    {
+      "id": "5a7616755542992d0ec06028",
+      "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+      "answer": "Gulfport, Biloxi",
+      "prediction": "Gulfport\u2013Biloxi.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Henderson Point, Mississippi",
+      "hop2_title": "Biloxi, Mississippi",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Henderson Point, Mississippi",
+        "Paulding, Mississippi",
+        "Henderson, Texas",
+        "Henderson County, Kentucky",
+        "Biloxi, Mississippi"
+      ]
+    },
+    {
+      "id": "5ac0fd56554299012d1db679",
+      "question": "Carrie Coon plays Margo Dunne in a 2014 film set in what state?",
+      "answer": "Missouri",
+      "prediction": "Missouri.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Carrie Coon",
+      "hop2_title": "Gone Girl (film)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Carrie Coon",
+        "List of awards and nominations received by Fargo",
+        "Gloria Burgle",
+        "The Keeping Hours",
+        "Gone Girl (film)"
+      ]
+    },
+    {
+      "id": "5adde73f5542992200553b94",
+      "question": "What do both Spider-Man and Spider-Man in film have in comman",
+      "answer": "comic",
+      "prediction": "They both have the name \"Spider-Man\".",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Spider-Man (pinball)",
+      "hop2_title": "Spider-Man in film",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Spider-Man in film",
+        "Spider-Man: Homecoming",
+        "Spider-Man (pinball)",
+        "Spider-Man 3",
+        "Spider-Man 2"
+      ]
+    },
+    {
+      "id": "5ab506a05542990594ba9cd6",
+      "question": "Which has more species, Sonerila or Scaevola?",
+      "answer": "Sonerila",
+      "prediction": "Sonerila has more species.",
+      "em": 0,
+      "f1": 0.4,
+      "hop1_title": "Scaevola (plant)",
+      "hop2_title": "Sonerila",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "List of Scaevola species",
+        "Scaevola (plant)",
+        "Sonerila",
+        "Scaevola coriacea",
+        "Sonerila janakiana"
+      ]
+    },
+    {
+      "id": "5a7f57a45542992097ad2f29",
+      "question": "What party was Johan Henrik Deuntzer a part of before the party that translates to the \"Radical Left?\"",
+      "answer": "Liberal \"Venstre\" party",
+      "prediction": "Venstre.",
+      "em": 0,
+      "f1": 0.5,
+      "hop1_title": "Danish Social Liberal Party",
+      "hop2_title": "Johan Henrik Deuntzer",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Johan Henrik Deuntzer",
+        "Cabinet of Deuntzer",
+        "Danish Social Liberal Party",
+        "Radical Left (France)",
+        "Syriza"
+      ]
+    },
+    {
+      "id": "5a8dee2455429917b4a5bce1",
+      "question": "What other film did the star of 127 Hours act in?",
+      "answer": "Pineapple Express",
+      "prediction": "Milk.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "127 Hours",
+      "hop2_title": "James Franco",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "127 Hours",
+        "List of accolades received by 127 Hours",
+        "James Franco",
+        "Treehouse of Horror XXII",
+        "Danny Boyle"
+      ]
+    },
+    {
+      "id": "5a7cd7f055429909bec7683e",
+      "question": "What school was the actress who appeared with Michelle Williams in the last play by Russian playwright Anton Chekhov attending when she was signed on for a talent holding deal?",
+      "answer": "Juilliard School",
+      "prediction": "The Juilliard School.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Jessica Chastain on screen and stage",
+      "hop2_title": "The Cherry Orchard",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Maria Chekhova",
+        "Three Sisters (play)",
+        "The Cherry Orchard",
+        "Uncle Vanya",
+        "Jessica Chastain"
+      ]
+    },
+    {
+      "id": "5a7cb8bc554299452d57b9be",
+      "question": "What is the capacity of the stadium that is the home ground of the Lahore Eagles?",
+      "answer": "27,000",
+      "prediction": "27,000",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Gaddafi Stadium",
+      "hop2_title": "Lahore Eagles",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Lahore Eagles",
+        "Gaddafi Stadium",
+        "Lahore Lions",
+        "Subiaco Oval",
+        "Aamer Iqbal (cricketer, born 1990)"
+      ]
+    },
+    {
+      "id": "5ab9547755429970cfb8ea6c",
+      "question": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+      "answer": "87",
+      "prediction": "The Great Fire of London.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Great Fire of London",
+      "hop2_title": "St Dionis Backchurch",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "St Dionis Backchurch",
+        "St Dionis Vicarage",
+        "St Dionis Mission Hall",
+        "List of Christopher Wren churches in London",
+        "St Mary's Church, Acton"
+      ]
+    },
+    {
+      "id": "5a8cfa2e554299585d9e378b",
+      "question": "What career did the British actor born in 1965  and star of Lock, Stock and Two Smoking Barrels have before acting?",
+      "answer": "professional footballer",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Lock, Stock and Two Smoking Barrels",
+      "hop2_title": "Vinnie Jones",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Alan Ford (actor)",
+        "Steven Mackintosh",
+        "Stephen Marcus",
+        "Lock, Stock and Two Smoking Barrels",
+        "Nick Moran"
+      ]
+    },
+    {
+      "id": "5ab67bd355429954757d32f2",
+      "question": "Curt Menefee is the host of the Fox network's NFL show with co-host Michael Anthony Strahan who spent his entire 15-year career with what team?",
+      "answer": "New York Giants",
+      "prediction": "The New York Giants.",
+      "em": 0,
+      "f1": 0.8571428571428571,
+      "hop1_title": "Michael Strahan",
+      "hop2_title": "Curt Menefee",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Curt Menefee",
+        "Michael Strahan",
+        "Charissa Thompson",
+        "Fiona Forbes",
+        "Ray Nitschke"
+      ]
+    },
+    {
+      "id": "5abecdf45542997719eab5d4",
+      "question": "Lake Wales Ridge National Wildlife Refuge is on the US route that runs between a city in what Florida county?",
+      "answer": "Polk",
+      "prediction": "Polk.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Davenport, Florida",
+      "hop2_title": "Lake Wales Ridge National Wildlife Refuge",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Lake Wales Ridge National Wildlife Refuge",
+        "Audubon National Wildlife Refuge",
+        "Nantucket National Wildlife Refuge",
+        "Medicine Lake National Wildlife Refuge",
+        "Florida scrub"
+      ]
+    },
+    {
+      "id": "5a7e37095542995ed0d166d5",
+      "question": "Which film director is younger, Robert Z. Leonard or Sinclair Hill?",
+      "answer": "Sinclair Hill",
+      "prediction": "Robert Z. Leonard.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Robert Z. Leonard",
+      "hop2_title": "Sinclair Hill",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Sinclair Hill",
+        "Robert Z. Leonard",
+        "Circe, the Enchantress",
+        "Broadway Rose (film)",
+        "Fascination (1922 film)"
+      ]
+    },
+    {
+      "id": "5a8f18d555429918e830d189",
+      "question": "What city is between Normanby le Wold and the A46 Junction between Lincoln and Grimsby?",
+      "answer": "Caistor is a town",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Caistor",
+      "hop2_title": "Normanby le Wold",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Normanby le Wold",
+        "Wolds Top",
+        "Caistor",
+        "Gayton le Wold",
+        "Biscathorpe"
+      ]
+    },
+    {
+      "id": "5a7b85ac5542997c3ec971ef",
+      "question": "Milo Parker starred in which 2014 movie alongside Gillian Anderson?",
+      "answer": "Robot Overlords",
+      "prediction": "Robot Overlords.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Milo Parker",
+      "hop2_title": "Robot Overlords",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Milo Parker",
+        "Mr. Holmes",
+        "Francesca Fowler",
+        "Robot Overlords",
+        "Milo Parker Jewett"
+      ]
+    },
+    {
+      "id": "5ae617285542996de7b71b4c",
+      "question": "The Lady Craved Excitement was a film that featured the British character actor originally of what nationality?",
+      "answer": "South African-born",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "The Lady Craved Excitement",
+      "hop2_title": "Sid James",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "The Lady Craved Excitement",
+        "Francis Searle",
+        "Campbell Singer",
+        "Harry Cheshire",
+        "Evan Thomas (actor)"
+      ]
+    },
+    {
+      "id": "5ae7247b5542992ae0d163c1",
+      "question": "...Ready for It? is a Taylor Swift song from the album scheduled to be released on what date?",
+      "answer": "November 10, 2017",
+      "prediction": "November 10, 2017.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Reputation (Taylor Swift album)",
+      "hop2_title": "...Ready for It?",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "...Ready for It?",
+        "Taylor Swift (album)",
+        "The Taylor Swift Holiday Collection",
+        "Our Song (Taylor Swift song)",
+        "Reputation (Taylor Swift album)"
+      ]
+    },
+    {
+      "id": "5ae0ae4555429945ae959419",
+      "question": "Jal Pari, which translated in another language refers to which legendary creature which are sometimes associated with perilous events such as floods, storm,s shipwrecks, and drownings?",
+      "answer": "A mermaid",
+      "prediction": "Mermaid.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Jal Pari (album)",
+      "hop2_title": "Mermaid",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Jal Pari (TV series)",
+        "Jal Pari (album)",
+        "Mermaid",
+        "JAL (compiler)",
+        "Sarmad Abdul Ghafoor"
+      ]
+    },
+    {
+      "id": "5ae306115542992decbdcdc4",
+      "question": "What is the brand who makes canned meats that had its own cook off in Austin until 2007?",
+      "answer": "Hormel Foods Corporation",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Spamarama",
+      "hop2_title": "Spam (food)",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Indian Packing Company",
+        "Luck's Incorporated",
+        "Bush Brothers and Company",
+        "Spam (food)",
+        "Plumrose USA"
+      ]
+    },
+    {
+      "id": "5ade4fcc5542997c77adeded",
+      "question": "Multiculturalism in the Netherlands reached new heights following the murder in 2002, in part, with what Dutch politician, civil servant, socialogist and professor who formed his own party?",
+      "answer": "Wilhelmus Simon Petrus Fortuijn, known as Pim Fortuyn",
+      "prediction": "Pim Fortuyn.",
+      "em": 0,
+      "f1": 0.4,
+      "hop1_title": "Multiculturalism in the Netherlands",
+      "hop2_title": "Pim Fortuyn",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Multiculturalism in the Netherlands",
+        "Steven van Weyenberg",
+        "Arthur Docters van Leeuwen",
+        "Pim Fortuyn",
+        "Cornelis Nagtglas"
+      ]
+    },
+    {
+      "id": "5abdd08d5542991f6610604c",
+      "question": "Which movie directed by James Gunn portrayed the fictional character, Ego the Living Planet?",
+      "answer": "Guardians of the Galaxy Vol. 2",
+      "prediction": "Guardians of the Galaxy Vol. 2.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Ego the Living Planet",
+      "hop2_title": "Guardians of the Galaxy Vol. 2",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Ego the Living Planet",
+        "James Gunn",
+        "Mogo",
+        "Charles Gunn (Angel)",
+        "Super (2010 American film)"
+      ]
+    },
+    {
+      "id": "5a72abb95542992359bc3162",
+      "question": "Which film was not a 3D computer-animation Cars 3 or Smith!?",
+      "answer": "Smith!",
+      "prediction": "Smith!",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Cars 3",
+      "hop2_title": "Smith!",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Cars 3",
+        "Smith!",
+        "Cars 3 (2009 film)",
+        "Lightning McQueen",
+        "Cars 3: Driven to Win"
+      ]
+    },
+    {
+      "id": "5a7f54665542992097ad2f1a",
+      "question": "The city that hosted the Olympics where Taiwan competed as Chinese Taipei is situated at the confluence of what two rivers?",
+      "answer": "Bow River and the Elbow River",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Calgary",
+      "hop2_title": "Chinese Taipei at the 1988 Winter Olympics",
+      "hop1_recalled": false,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Chinese Taipei at the 2008 Summer Olympics",
+        "Chinese Taipei at the 2006 Winter Olympics",
+        "Chinese Taipei at the 2006 Asian Games",
+        "Chinese Taipei at the 2010 Winter Olympics",
+        "Chinese Taipei national under-23 football team"
+      ]
+    },
+    {
+      "id": "5ae0bc185542993d6555ec29",
+      "question": "Penny Rae Bridges starred in a television sitcom with what other actor?",
+      "answer": "Ben Savage",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Boy Meets World",
+      "hop2_title": "Penny Bae Bridges",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Penny Bae Bridges",
+        "Jimmy Bridges (actor)",
+        "Kelly Hu",
+        "Penny Framstad",
+        "Kaley Cuoco"
+      ]
+    },
+    {
+      "id": "5a864d9e5542994775f6073d",
+      "question": "Were Ulrich Walter and L\u00e9opold Eyharts both from Germany?",
+      "answer": "no",
+      "prediction": "No.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Ulrich Walter",
+      "hop2_title": "L\u00e9opold Eyharts",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "L\u00e9opold Eyharts",
+        "Ulrich Walter",
+        "Ulrich Diesing",
+        "St. Ulrich's Priory in the Black Forest",
+        "Kreuzlingen Abbey"
+      ]
+    },
+    {
+      "id": "5ae5b25d5542990ba0bbb2bb",
+      "question": "Who has a wider scope of profession, Christopher Guest or  Roman Karmen?",
+      "answer": "Christopher Haden-Guest",
+      "prediction": "Christopher Guest.",
+      "em": 0,
+      "f1": 0.8,
+      "hop1_title": "Roman Karmen",
+      "hop2_title": "Christopher Guest",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Roman Karmen",
+        "Christopher Guest",
+        "Oleg Makara",
+        "Science Supercourse",
+        "Nuremberg Trials (film)"
+      ]
+    },
+    {
+      "id": "5ae5e62455429929b0807a07",
+      "question": "Giovanna d'Arco is an opera that was created by the composer of what nationality?",
+      "answer": "Italian",
+      "prediction": "Italian.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Giovanna d'Arco",
+      "hop2_title": "Giuseppe Verdi",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Giovanna d'Arco",
+        "Eugenio Cavallini",
+        "Folke Jonsson",
+        "Filippo Colini",
+        "Giovanna d'Arco al rogo"
+      ]
+    },
+    {
+      "id": "5ae0120155429925eb1afbfb",
+      "question": "Kim Dong-won's directorial debut film was a sequal to what 2001 film?",
+      "answer": "My Boss, My Hero",
+      "prediction": "My Boss, My Hero.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "My Boss, My Teacher",
+      "hop2_title": "Kim Dong-won (director, born 1962)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Kim Dong-won (director, born 1962)",
+        "Kim Dong-won (filmmaker, born 1955)",
+        "City of Damnation",
+        "Kim Dong-won",
+        "My Boss, My Teacher"
+      ]
+    },
+    {
+      "id": "5abe87cb5542993f32c2a156",
+      "question": "Millennium Greens were funded in part by a what type of lottery?",
+      "answer": "state-franchised",
+      "prediction": "National Lottery.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "National Lottery (United Kingdom)",
+      "hop2_title": "Millennium Green",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Millennium Green",
+        "Doorstep Greens",
+        "Millennium Forest for Scotland",
+        "National Lottery (United Kingdom)",
+        "Papua New Guinea Greens"
+      ]
+    },
+    {
+      "id": "5ae2b770554299495565db0f",
+      "question": "In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held? ",
+      "answer": "March and April",
+      "prediction": "March and April.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "London International Documentary Festival",
+      "hop2_title": "London Review of Books",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "London International Documentary Festival",
+        "Docville",
+        "Doc NYC",
+        "New Haven Documentary Film Festival",
+        "Chagrin Documentary Film Festival"
+      ]
+    },
+    {
+      "id": "5a7af2a455429931da12c998",
+      "question": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+      "answer": "Miami",
+      "prediction": "Miami.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Palm Springs, Florida",
+      "hop2_title": "Palm Beach County, Florida",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Palm Springs, Florida",
+        "Palm Beach County, Florida",
+        "West Palm Beach, Florida",
+        "Century Village, Florida",
+        "Palm Tran"
+      ]
+    },
+    {
+      "id": "5a7af23a55429931da12c994",
+      "question": "Candace Flynn was voiced by the actress who achieved mainstream success on what show?",
+      "answer": "The Suite Life of Zack & Cody",
+      "prediction": "The Suite Life of Zack & Cody.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Ashley Tisdale",
+      "hop2_title": "Candace Flynn",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Candace Flynn",
+        "Sara Poulsen",
+        "Ashley Tisdale",
+        "Phineas and Ferb (season 1)",
+        "Phineas and Ferb (season 2)"
+      ]
+    },
+    {
+      "id": "5ab8634e5542990e739ec8de",
+      "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+      "answer": "The Vanguard Group",
+      "prediction": "Period dependent research.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "John C. Bogle",
+      "hop2_title": "Value premium",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Value premium",
+        "Option time value",
+        "Universal life insurance",
+        "Minority discount",
+        "Variable universal life insurance"
+      ]
+    },
+    {
+      "id": "5a8836445542997e5c09a5a5",
+      "question": "Professor A. Selvanathan is a professor at a university that is public or private ?",
+      "answer": "public",
+      "prediction": "Private.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Southern Cross University",
+      "hop2_title": "City University, Malaysia",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "City University, Malaysia",
+        "Jeffrey MacKie-Mason",
+        "Zhang Kangzhi",
+        "Paolo Leon",
+        "Michael Osterholm"
+      ]
+    },
+    {
+      "id": "5ae127c9554299422ee99612",
+      "question": "Fighting Cock is produced in what Kentucky county?",
+      "answer": "Nelson County",
+      "prediction": "Bardstown is in Nelson County, but the question is about the county where it is produced, not bottled.",
+      "em": 0,
+      "f1": 0.19999999999999998,
+      "hop1_title": "Fighting Cock (bourbon)",
+      "hop2_title": "Bardstown, Kentucky",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Fighting Cock (bourbon)",
+        "Fighting cock (disambiguation)",
+        "The Fighting Cock",
+        "Kentucky County, Virginia",
+        "Casey County, Kentucky"
+      ]
+    },
+    {
+      "id": "5ac194db55429964131be23a",
+      "question": "What was the official religion of the lands of the husband of Dorothea of Denmark, Duchess of Prussia?",
+      "answer": "Protestantism",
+      "prediction": "Lutheranism.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Dorothea of Denmark, Duchess of Prussia",
+      "hop2_title": "Albert, Duke of Prussia",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Dorothea of Denmark, Duchess of Prussia",
+        "Albert, Duke of Prussia",
+        "List of monarchs of Prussia",
+        "State religion",
+        "Religion in Abkhazia"
+      ]
+    },
+    {
+      "id": "5ab8eabb5542991b5579f03d",
+      "question": "Frank Blake's longtime prot\u00e9g\u00e9 was also the chairman and CEO of what company in addition to The Home Depot?",
+      "answer": "Chrysler",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Frank Blake",
+      "hop2_title": "Robert Nardelli",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Frank Blake",
+        "Frank Blake (American football)",
+        "Ron Brill",
+        "Annette Verschuren",
+        "Home Depot Landscape Supply"
+      ]
+    },
+    {
+      "id": "5ab234c65542993be8fa98c6",
+      "question": "Armie Hammer stars as Oliver in a film directed by who ?",
+      "answer": "Luca Guadagnino",
+      "prediction": "Luca Guadagnino.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Armie Hammer",
+      "hop2_title": "Call Me by Your Name (film)",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Armie Hammer",
+        "Billy: The Early Years",
+        "Free Fire",
+        "The Lone Ranger (2013 film)",
+        "On the Basis of Sex"
+      ]
+    },
+    {
+      "id": "5ae524415542992663a4f121",
+      "question": "In what city did the 23rd overall pick of the 2015 NHL Entry Draft helped the United States national junior team win a bronze medal?",
+      "answer": "Helsinki, Finland",
+      "prediction": "Waterloo.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Brock Boeser",
+      "hop2_title": "2016 World Junior Ice Hockey Championships",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Ryan Johansen",
+        "Brendan Perlini",
+        "Brock Boeser",
+        "Paul Bittner",
+        "Nail Yakupov"
+      ]
+    },
+    {
+      "id": "5a7e42df5542994959419954",
+      "question": "Mariana Kovacevic used horse placenta treatment to heal the captian of what team?",
+      "answer": "Ghanaian national team",
+      "prediction": "Ghana.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Mariana Kovacevic",
+      "hop2_title": "Asamoah Gyan",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Mariana Kovacevic",
+        "Treatment of equine lameness",
+        "Elizabeth M. Ramsey",
+        "Pin firing",
+        "Equinalysis"
+      ]
+    },
+    {
+      "id": "5abffc0d5542990832d3a1e2",
+      "question": "What instrument of war was only used by the President of the United States who was born in Lamar, Missouri?",
+      "answer": "nuclear weapons",
+      "prediction": "Nuclear weapons.",
+      "em": 1,
+      "f1": 1.0,
+      "hop1_title": "Lamar, Missouri",
+      "hop2_title": "Harry S. Truman",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Harry S Truman Birthplace State Historic Site",
+        "Lamar, Missouri",
+        "David Rice Atchison",
+        "Harry S. Truman",
+        "Truman State University"
+      ]
+    },
+    {
+      "id": "5ae6914755429908198fa627",
+      "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+      "answer": "January 2001",
+      "prediction": "July.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Brian Olsen",
+      "hop2_title": "Zuffa",
+      "hop1_recalled": true,
+      "hop2_recalled": false,
+      "retrieved_titles": [
+        "Brian Olsen",
+        "WWC Universal Heavyweight Championship",
+        "WEC 20",
+        "James Irvin (fighter)",
+        "Iron Mike Productions"
+      ]
+    },
+    {
+      "id": "5ae78f3b554299540e5a5608",
+      "question": "Mr. & Mrs. Mxyzptlk is an episode of the superhero TV series that originally aired on what network?",
+      "answer": "CBS",
+      "prediction": "The CW.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "Mr. &amp; Mrs. Mxyzptlk",
+      "hop2_title": "Supergirl (TV series)",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Mr. &amp; Mrs. Mxyzptlk",
+        "Supergirl (TV series)",
+        "Automan",
+        "Special Rescue Exceedraft",
+        "Mirrorman"
+      ]
+    },
+    {
+      "id": "5a8b46925542995d1e6f133c",
+      "question": "When was the singer of Miss Emily's Picture born?",
+      "answer": "August 11, 1946",
+      "prediction": "I don't know.",
+      "em": 0,
+      "f1": 0.0,
+      "hop1_title": "John Conlee",
+      "hop2_title": "Miss Emily's Picture",
+      "hop1_recalled": false,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Miss Emily's Picture",
+        "Emily Vanhoutte",
+        "Emily Parker Groom",
+        "Emily Morse",
+        "Emily Grierson"
+      ]
+    },
+    {
+      "id": "5ab4f7fc5542991779162d43",
+      "question": "Kete Krachi is a town in what region?",
+      "answer": "Volta",
+      "prediction": "Volta Region.",
+      "em": 0,
+      "f1": 0.6666666666666666,
+      "hop1_title": "Kete Krachi",
+      "hop2_title": "Krachi West District",
+      "hop1_recalled": true,
+      "hop2_recalled": true,
+      "retrieved_titles": [
+        "Kete Krachi",
+        "Krachi West District",
+        "Kwadjokrom",
+        "Dambai"
+      ]
+    }
+  ]
+}
