@@ -1,0 +1,385 @@
+{
+  "summary": {
+    "n": 200,
+    "baseline_hop2_recall": 141,
+    "twostep_hop2_recall": 176,
+    "improvement": 35,
+    "cases_improved": 44,
+    "cases_regressed": 9
+  },
+  "improvements": [
+    {
+      "question": "Ken Pruitt  was a Republican member of an upper house of the legislature with how many members ?",
+      "answer": "40 members",
+      "hop2_title": "Florida Senate",
+      "bridge_entity_used": "Florida Senate",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "which Mexican and American film actress is Ethel Houbiers  French voice of ",
+      "answer": "Salma Hayek Pinault",
+      "hop2_title": "Salma Hayek",
+      "bridge_entity_used": "Pen\u00e9lope Cruz",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?",
+      "answer": "Francis McPeake",
+      "hop2_title": "Wild Mountain Thyme",
+      "bridge_entity_used": "Francis McPeake",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "From March 631 to April 631, Farrukhzad Khosrau V was the king of an empire that succeeded which empire?",
+      "answer": "the Parthian Empire",
+      "hop2_title": "Sasanian Empire",
+      "bridge_entity_used": "Sasanian Empire",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Baraki Barak District is situated in the western part of a province whose capital is what?",
+      "answer": "Puli Alam",
+      "hop2_title": "Logar Province",
+      "bridge_entity_used": "Logar Province",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+      "answer": "310",
+      "hop2_title": "Randolph, New Hampshire",
+      "bridge_entity_used": "New Hampshire",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "College Humor is a 1933 American pre-Code musical comedy film that starred what American singer and actor who has a trademark warm bass-baritone voice?",
+      "answer": "Harry Lillis \"Bing\" Crosby Jr.",
+      "hop2_title": "Bing Crosby",
+      "bridge_entity_used": "Bing Crosby",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Jalen Jones plays basketball for an NBA team that plays their home games in what arena?",
+      "answer": "Smoothie King Center",
+      "hop2_title": "New Orleans Pelicans",
+      "bridge_entity_used": "New Orleans Pelicans",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Alexander Petrovich Nikolayev received the title Hero of the Soviet Union and the Order of Lenin for his actions during the   the final major offensive of the European theatre of what war?",
+      "answer": "World War II",
+      "hop2_title": "Battle of Berlin",
+      "bridge_entity_used": "Battle of Berlin",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?",
+      "answer": "Justin Spitzer",
+      "hop2_title": "Superstore (TV series)",
+      "bridge_entity_used": "Superstore",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Which actor from the South Korean-Thai drama film Final Recipe debuted as a member of Super Junior-M in 2008?",
+      "answer": "Henry Lau",
+      "hop2_title": "Henry Lau",
+      "bridge_entity_used": "Henry Lau",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Which late 1980s and 1990s English super model was featured in the song nasty girl by The Notorious B.I.G.?",
+      "answer": "Naomi Elaine Campbell",
+      "hop2_title": "Naomi Campbell",
+      "bridge_entity_used": "Naomi Campbell",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Josh Trank and Mike Valerio both work in what industry?",
+      "answer": "entertainment",
+      "hop2_title": "Josh Trank",
+      "bridge_entity_used": "Josh Trank",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What American indie rock group first had Jesse Sandoval as the drummer and now has Jon Sortland on drums?",
+      "answer": "The Shins",
+      "hop2_title": "The Shins",
+      "bridge_entity_used": "The Shins",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What 3 countries are part of the legal name of the airline that merged with Braathens in 2004?",
+      "answer": "Denmark\u2013Norway\u2013Sweden",
+      "hop2_title": "Scandinavian Airlines",
+      "bridge_entity_used": "Scandinavian Airlines System (SAS)",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Saltillo Engine is an engine plant in Ramos Arizpe that belongs to the American subsidiary of what company?",
+      "answer": "Fiat Chrysler Automobiles N.V.",
+      "hop2_title": "Chrysler",
+      "bridge_entity_used": "Chrysler",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": " What type of television show did Dylan Everett star in, in 2015?",
+      "answer": "American-Canadian mystery-drama",
+      "hop2_title": "Open Heart (TV series)",
+      "bridge_entity_used": "\"How To Be Indie\"",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Who wrote the lyrics for Linda Eder's Broadway debut?",
+      "answer": "Wildhorn, Bricusse and Cuden",
+      "hop2_title": "Jekyll &amp; Hyde (musical)",
+      "bridge_entity_used": "Jekyll & Hyde",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "answer": "an adventure novel",
+      "hop2_title": "Treasure Island",
+      "bridge_entity_used": "Robert Louis Stevenson",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "A Wind in the Door is part of a series written by who?",
+      "answer": "Madeleine L'Engle",
+      "hop2_title": "Time Quintet",
+      "bridge_entity_used": "Madeleine L'Engle",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Jihad: A Story of the Others is a documentary by the director who is of what descent?",
+      "answer": "Punjabi/Pashtun",
+      "hop2_title": "Deeyah Khan",
+      "bridge_entity_used": "Deeyah Khan",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+      "answer": "Alachua",
+      "hop2_title": "Gainesville, Florida",
+      "bridge_entity_used": "University of Florida",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Live Wire Radio will possibly be considered as a replacement for a variety show created in what year?",
+      "answer": "1974",
+      "hop2_title": "A Prairie Home Companion",
+      "bridge_entity_used": "Garrison Keillor",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Which king of Northumbria did The \"Historia\" gives the abbot central place in his election as king",
+      "answer": "Guthred or Guthfrith",
+      "hop2_title": "Guthred",
+      "bridge_entity_used": "Bede",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "who was the anthropologist who thought that the plaster casts that were discovered by Paul Freeman were a critical piece of evidence?",
+      "answer": "Don Jeffrey \"Jeff\" Meldrum (born May 24, 1958) is a Professor of Anatomy and Anthropology",
+      "hop2_title": "Jeffrey Meldrum",
+      "bridge_entity_used": "Grover Krantz",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What company did Rex Maughan aquire?",
+      "answer": "Aloe Vera of America",
+      "hop2_title": "Forever Living Products",
+      "bridge_entity_used": "Forever Living Products",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "The Nike Mercurial Vapor is endorsed by a Stoke City football player who also plays for what national team?",
+      "answer": "the Switzerland national team",
+      "hop2_title": "Xherdan Shaqiri",
+      "bridge_entity_used": "Jes\u00fas Navas",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What NIFL Premier Intermediate League team did Sean Connor play for?",
+      "answer": "Distillery",
+      "hop2_title": "Lisburn Distillery F.C.",
+      "bridge_entity_used": "Distillery",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Bridgewater Triangle is an area where the phenomenon associated with what type of tradition has been seen?",
+      "answer": "Native American",
+      "hop2_title": "Thunderbird (cryptozoology)",
+      "bridge_entity_used": "UFOs",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "The Dogwoman telemovies were created by an actress born in what year?",
+      "answer": "1961",
+      "hop2_title": "Magda Szubanski",
+      "bridge_entity_used": "Magda Szubanski",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "The Prodigal Daughter, though a book about an American, is by a novelist of what nationality?",
+      "answer": "English",
+      "hop2_title": "Jeffrey Archer",
+      "bridge_entity_used": "Jeffrey Archer",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What actor replaced the Welch actor born in 1978 who played Robin Hood in the first season of \"Once upon a Time\"?",
+      "answer": "Sean Maguire",
+      "hop2_title": "Tom Ellis (actor)",
+      "bridge_entity_used": "Tom Ellis",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "In what year was the coach who led the 2007 South Carolina Gamecocks football team in his third season as USC head coach born?",
+      "answer": "1945",
+      "hop2_title": "Steve Spurrier",
+      "bridge_entity_used": "Steve Spurrier",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What team did Travis Cortez Mays play on which currently compete in the Big 12 Conference.?",
+      "answer": "Texas Longhorns men's basketball team",
+      "hop2_title": "Texas Longhorns men's basketball",
+      "bridge_entity_used": "University of Texas",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "What year was Playford B Power Station permanently closed in by its Australian operator?",
+      "answer": "2015",
+      "hop2_title": "Alinta Energy",
+      "bridge_entity_used": "Alinta Energy",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Which English actor starred in the 1995 american romantic drama film The Scarlet Letter alongside Demi Moore and Robert Duvall?",
+      "answer": "Gary Oldman",
+      "hop2_title": "Gary Oldman",
+      "bridge_entity_used": "Gary Oldman",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+      "answer": "87",
+      "hop2_title": "Great Fire of London",
+      "bridge_entity_used": "Great Fire of London",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Which movie directed by James Gunn portrayed the fictional character, Ego the Living Planet?",
+      "answer": "Guardians of the Galaxy Vol. 2",
+      "hop2_title": "Guardians of the Galaxy Vol. 2",
+      "bridge_entity_used": "\"Guardians of the Galaxy Vol. 2\"",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Giovanna d'Arco is an opera that was created by the composer of what nationality?",
+      "answer": "Italian",
+      "hop2_title": "Giuseppe Verdi",
+      "bridge_entity_used": "Giuseppe Verdi",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "In regards to Value premium an expert argued that no value premium exisits, what did this expert found?",
+      "answer": "The Vanguard Group",
+      "hop2_title": "John C. Bogle",
+      "bridge_entity_used": "John C. Bogle",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Frank Blake's longtime prot\u00e9g\u00e9 was also the chairman and CEO of what company in addition to The Home Depot?",
+      "answer": "Chrysler",
+      "hop2_title": "Robert Nardelli",
+      "bridge_entity_used": "Robert Nardelli",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Armie Hammer stars as Oliver in a film directed by who ?",
+      "answer": "Luca Guadagnino",
+      "hop2_title": "Call Me by Your Name (film)",
+      "bridge_entity_used": "Call Me by Your Name",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Mariana Kovacevic used horse placenta treatment to heal the captian of what team?",
+      "answer": "Ghanaian national team",
+      "hop2_title": "Asamoah Gyan",
+      "bridge_entity_used": "Asamoah Gyan",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    },
+    {
+      "question": "Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?",
+      "answer": "January 2001",
+      "hop2_title": "Zuffa",
+      "bridge_entity_used": "Zuffa",
+      "status": "IMPROVED \u2014 2-step found it, single-pass missed"
+    }
+  ],
+  "regressions": [
+    {
+      "question": "Which head coach has led their team for a longer period of time, Tim Cluess or Steve Prohm?",
+      "answer": "Tim Cluess",
+      "hop2_title": "2015\u201316 Iona Gaels men's basketball team",
+      "bridge_entity_used": "Tim Cluess",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "In the NASA mission where Moon trees were taken into space, what was the nickname of the Command Module?",
+      "answer": "\"Kitty Hawk\"",
+      "hop2_title": "Stuart Roosa",
+      "bridge_entity_used": "Apollo 14",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+      "answer": "Brady Seals",
+      "hop2_title": "Brady Seals",
+      "bridge_entity_used": "Nick Carter",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "What was the slogan  that came about from the idea of Lebensraum which had its most extreme form supported by the Nazi Party until the end of World War II?",
+      "answer": "Blood and soil",
+      "hop2_title": "Blood and Soil",
+      "bridge_entity_used": "Septemberprogramm",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "What competition held in Kathmandu, Nepal did Julian Bolling compete in 1984?",
+      "answer": "1984 South Asian Games",
+      "hop2_title": "1984 South Asian Games",
+      "bridge_entity_used": "Mr Nepal",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "The alcoholic drink that shares a name with Quintessentially Unreal's 1996 album is commonly reffered to in historical literature as what?",
+      "answer": "the green fairy",
+      "hop2_title": "Absinthe",
+      "bridge_entity_used": "Quintessentially Unreal",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "Who is the film dedicated to that Paramount Classics and MTV Films co-purchased the rights to?",
+      "answer": "Sam Phillips",
+      "hop2_title": "Beneath (2007 film)",
+      "bridge_entity_used": "\"Beavis and Butt-head Do America\"",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+      "answer": "Gulfport, Biloxi",
+      "hop2_title": "Biloxi, Mississippi",
+      "bridge_entity_used": "Harrison County",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    },
+    {
+      "question": "...Ready for It? is a Taylor Swift song from the album scheduled to be released on what date?",
+      "answer": "November 10, 2017",
+      "hop2_title": "Reputation (Taylor Swift album)",
+      "bridge_entity_used": "Taylor Swift",
+      "status": "REGRESSED \u2014 single-pass had it, 2-step lost it"
+    }
+  ]
+}
