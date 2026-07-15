@@ -1,0 +1,12 @@
+# dependencies for the hotpotqa rag baseline + hypothesis experiments
+# pinned loosely — minor versions shouldn't matter
+
+requests>=2.31
+datasets>=2.19
+tqdm>=4.66
+python-dotenv>=1.0
+groq>=0.9.0
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+numpy>=1.26
+pandas>=2.2
